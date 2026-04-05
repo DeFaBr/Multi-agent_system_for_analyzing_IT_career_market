@@ -1,6 +1,8 @@
 # Multi-agent system for analyzing IT career market
 ## 0. Тип используемой модели:
-### google/gemma-4-E2B-it с квантированием 4-bit
+### 0.1. google/gemma-4-E2B-it с квантированием 4-bit
+### 0.2. Запуск программы:
+в терменале введите: python main.py --role "название профессии (на английском)"
 
 ## 1. Агенты (папка agents):
 ### 1.0. Файл agent.py:

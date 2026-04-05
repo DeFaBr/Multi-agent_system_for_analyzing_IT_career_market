@@ -3,72 +3,110 @@
         "foundation": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": Python Programming Fundamentals: Syntax Data Structures Control Flow"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Core Concepts of Machine Learning (ML) and Deep Learning (DL)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": NumPy and Pandas for Data Manipulation"
+                },
+                {
+                    "theme": ": Introduction to Scikit Learn for ML Algorithms"
+                },
+                {
+                    "theme": ": Basic concepts of Docker for Containerization"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": Official Python documentation and interactive tutorials (e.e. Python Crash Course)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": Coursera or ed X courses on Machine Learning Fundamentals (e.e. Andrew Ng courses)",
                     "resource_type": "course"
+                },
+                {
+                    "resource": ": Pandas documentation and DataCamp tutorials for data wrangling and analysis}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Docker official documentation and tutorials for basic container setup}",
+                    "resource_type": "documentation"
                 }
             ]
         },
         "practice": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": Advanced Python for Data Science (Object Oriented Programming and efficient scripting)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Implementing ML Models using Scikit Learn (Classification and Regression)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Building Data Pipelines with Pandas for ETL operations"
+                },
+                {
+                    "theme": ": Containerizing ML Models using Docker (Creating Dockerfiles and running containers)"
+                },
+                {
+                    "theme": ": Introduction to Kubernetes for Orchestration (Basic concepts for deploying ML services)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": Kaggle datasets for hands on ML problems and competitions}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Scikit Learn user guides and tutorials focusing on model training and evaluation}",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": Tutorials on Pandas for complex data cleaning and feature engineering}",
                     "resource_type": "course"
+                },
+                {
+                    "resource": ": Docker tutorials covering multi\u2011stage builds and environment setup}",
+                    "resource_type": "documentation"
                 }
             ]
         },
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": End to End ML Model Deployment Pipeline"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Data Ingestion and Preprocessing using Python and Pandas"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Model Training and Evaluation using Scikit Learn"
+                },
+                {
+                    "theme": ": Containerization of the Trained Model using Docker"
+                },
+                {
+                    "theme": ": Deployment Simulation using basic Kubernetes concepts"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": A complex dataset from Kaggle or a real business problem}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": GitHub repository for all code and Dockerfiles}",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": A simple deployment script or documentation showing how Docker and Kubernetes interact with the model}",
                     "resource_type": "course"
                 }
             ]
         }
     },
-    "generated_at": "05.04.2026 23:33:26"
+    "generated_at": "06.04.2026 00:34:18"
 }

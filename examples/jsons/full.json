@@ -1,232 +1,290 @@
 {
     "soft_skills": [
         {
-            "soft_skill": "Python",
-            "demand": "critical",
-            "trend": "growing"
-        },
-        {
-            "soft_skill": "SQL",
+            "soft_skill": "]sikitniks",
             "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "Machine Learning Algorithms",
+            "soft_skill": "]sikitniks",
             "demand": "critical",
-            "trend": "growing"
+            "trend": "stable"
         },
         {
-            "soft_skill": "Deep Learning Frameworks",
+            "soft_skill": "]sikitniks",
             "demand": "critical",
-            "trend": "growing"
+            "trend": "stable"
         },
         {
-            "soft_skill": "Cloud Platforms AWS Azure GCP",
+            "soft_skill": "]sikitniks",
             "demand": "critical",
-            "trend": "growing"
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
+            "trend": "stable"
         }
     ],
     "hard_skills": [
         {
             "languages": [
                 {
-                    "programming_language": "Python",
+                    "programming_language": "]python",
                     "demand": "critical",
-                    "trend": "growing"
-                },
-                {
-                    "programming_language": "R",
-                    "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "Scala",
-                    "demand": "important",
+                    "programming_language": "]scala",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "]java",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "]c++",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "]go",
+                    "demand": "critical",
                     "trend": "stable"
                 }
             ],
             "frameworks": [
                 {
-                    "framework_for_programming_language": "TensorFlow",
+                    "framework_for_programming_language": "]tensorflow",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "PyTorch",
+                    "framework_for_programming_language": "]pytorch",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "ScikitLearn",
+                    "framework_for_programming_language": "]scikitlearn",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "]pandas",
                     "demand": "critical",
                     "trend": "stable"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": "Docker",
+                    "infrastructure": "]docker",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
                 },
                 {
-                    "infrastructure": "Kubernetes",
+                    "infrastructure": "]kubernetes",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
                 },
                 {
-                    "infrastructure": "AWS",
+                    "infrastructure": "]aws",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "]azure",
+                    "demand": "critical",
+                    "trend": "stable"
                 }
             ]
         }
     ],
-    "generated_at": "05.04.2026 23:33:26",
+    "generated_at": "06.04.2026 00:34:18",
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
                 "minimum_salary": 150000,
-                "average_salary": 180000,
-                "maximum_salary": 400000
-            },
-            "regions_of_russia_salaries": {
-                "minimum_salary": 140000,
-                "average_salary": 170000,
+                "average_salary": 190000,
                 "maximum_salary": 450000
             },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 100000,
+                "average_salary": 140000,
+                "maximum_salary": 400000
+            },
             "abroad_salaries": {
-                "minimum_salary": 600000,
-                "average_salary": 1500000,
-                "maximum_salary": 4000000
+                "minimum_salary": 50000,
+                "average_salary": 90000,
+                "maximum_salary": 150000
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 180000,
-                "average_salary": 500000,
+                "minimum_salary": 190000,
+                "average_salary": 400000,
                 "maximum_salary": 900000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 160000,
-                "average_salary": 400000,
-                "maximum_salary": 800000
+                "minimum_salary": 140000,
+                "average_salary": 190000,
+                "maximum_salary": 500000
             },
             "abroad_salaries": {
-                "minimum_salary": 800000,
-                "average_salary": 1800000,
-                "maximum_salary": 600000
+                "minimum_salary": 90000,
+                "average_salary": 140000,
+                "maximum_salary": 400000
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 450000,
-                "average_salary": 1100000,
-                "maximum_salary": 1800000
+                "minimum_salary": 400000,
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "regions_of_russia_salaries": {
                 "minimum_salary": 400000,
-                "average_salary": 950000,
-                "maximum_salary": 1600000
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "abroad_salaries": {
-                "minimum_salary": 1800000,
-                "average_salary": 4500000,
+                "minimum_salary": 150000,
+                "average_salary": 400000,
                 "maximum_salary": 1000000
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 1100000,
-                "average_salary": 1800000,
+                "minimum_salary": 900000,
+                "average_salary": 1500000,
                 "maximum_salary": 4000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 1700000,
-                "maximum_salary": 4000000
+                "minimum_salary": 500000,
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "abroad_salaries": {
-                "minimum_salary": 4000000,
-                "average_salary": 9000000,
-                "maximum_salary": 15000000
+                "minimum_salary": 400000,
+                "average_salary": 1000000,
+                "maximum_salary": 1500000
             }
         }
     },
     "market_trend": "growing",
-    "short_explaination_of_market_trend": ",Python and ML skills are highly in demand globally, with strong growth expected in cloud and deep learning expertise.",
+    "short_explaination_of_market_trend": "The market for Data Science and MLOps skills is experiencing high demand across all specified technologies, leading to strong salary growth for skilled professionals.",
     "top_companies_for_these_skills": [
-        "Google DeepMind",
-        "),",
-        ", ",
-        "Amazon Web Services",
-        "),,"
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Meta",
+        "Netflix"
     ],
     "learning": {
         "foundation": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": Python Programming Fundamentals: Syntax Data Structures Control Flow"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Core Concepts of Machine Learning (ML) and Deep Learning (DL)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": NumPy and Pandas for Data Manipulation"
+                },
+                {
+                    "theme": ": Introduction to Scikit Learn for ML Algorithms"
+                },
+                {
+                    "theme": ": Basic concepts of Docker for Containerization"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": Official Python documentation and interactive tutorials (e.e. Python Crash Course)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": Coursera or ed X courses on Machine Learning Fundamentals (e.e. Andrew Ng courses)",
                     "resource_type": "course"
+                },
+                {
+                    "resource": ": Pandas documentation and DataCamp tutorials for data wrangling and analysis}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Docker official documentation and tutorials for basic container setup}",
+                    "resource_type": "documentation"
                 }
             ]
         },
         "practice": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": Advanced Python for Data Science (Object Oriented Programming and efficient scripting)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Implementing ML Models using Scikit Learn (Classification and Regression)"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Building Data Pipelines with Pandas for ETL operations"
+                },
+                {
+                    "theme": ": Containerizing ML Models using Docker (Creating Dockerfiles and running containers)"
+                },
+                {
+                    "theme": ": Introduction to Kubernetes for Orchestration (Basic concepts for deploying ML services)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": Kaggle datasets for hands on ML problems and competitions}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Scikit Learn user guides and tutorials focusing on model training and evaluation}",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": Tutorials on Pandas for complex data cleaning and feature engineering}",
                     "resource_type": "course"
+                },
+                {
+                    "resource": ": Docker tutorials covering multi\u2011stage builds and environment setup}",
+                    "resource_type": "documentation"
                 }
             ]
         },
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": ""
+                    "theme": ": End to End ML Model Deployment Pipeline"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Data Ingestion and Preprocessing using Python and Pandas"
                 },
                 {
-                    "theme": ""
+                    "theme": ": Model Training and Evaluation using Scikit Learn"
+                },
+                {
+                    "theme": ": Containerization of the Trained Model using Docker"
+                },
+                {
+                    "theme": ": Deployment Simulation using basic Kubernetes concepts"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "",
+                    "resource": ": A complex dataset from Kaggle or a real business problem}",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": GitHub repository for all code and Dockerfiles}",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "",
+                    "resource": ": A simple deployment script or documentation showing how Docker and Kubernetes interact with the model}",
                     "resource_type": "course"
                 }
             ]
@@ -235,45 +293,51 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": ""
+                "hard_skill": ": Python"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Scikit Learn"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Pandas"
+            },
+            {
+                "hard_skill": ": TensorFlow or PyTorch"
+            },
+            {
+                "hard_skill": ": Docker and Kubernetes"
             }
         ],
         "long_term": [
             {
-                "hard_skill": ""
+                "hard_skill": ": Scala or Java or C++ or Go (for backend performance or specialized ML tasks)"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Advanced ML Framework Features (e.e. advanced PyTorch modules)"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Advanced Infrastructure (e.e. Kubernetes Operators or AWS services)"
             }
         ]
     },
     "portfolio_project": {
-        "project_name": "End-to-End Deep Learning Deployment Pipeline",
-        "project_description": "Develop a complete machine learning model, containerize it using Docker, deploy it on a cloud platform like AWS or GCP, and manage infrastructure with Kubernetes, all orchestrated using Python and relevant ML frameworks.",
+        "project_name": ": Scalable Deep Learning Inference Service on Cloud Platform",
+        "project_description": ": A complete pipeline that ingests raw data using Pandas transformations trains a complex deep learning model (using PyTorch or TensorFlow) evaluates its performance using Scikit Learn metrics containerizes the final model and serves it via a Kubernetes deployment on AWS or Azure.",
         "list_of_technologies": [
             {
-                "hard_skill_name": "Python (for scripting and ML logic)"
+                "hard_skill_name": ": Python"
             },
             {
-                "hard_skill_name": "TensorFlow or PyTorch (for model development)"
+                "hard_skill_name": ": PyTorch or TensorFlow"
             },
             {
-                "hard_skill_name": "Docker (for containerization)"
+                "hard_skill_name": ": Pandas"
             },
             {
-                "hard_skill_name": "Kubernetes (for orchestration)"
+                "hard_skill_name": ": Scikit Learn"
             },
             {
-                "hard_skill_name": "AWS or GCP (for cloud infrastructure)"
+                "hard_skill_name": ": Docker and Kubernetes (AWS or Azure)"
             }
         ]
     }

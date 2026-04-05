@@ -1,28 +1,28 @@
 {
     "soft_skills": [
         {
-            "soft_skill": "",
-            "demand": "nice-to-have",
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "",
-            "demand": "nice-to-have",
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "",
-            "demand": "nice-to-have",
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "",
-            "demand": "nice-to-have",
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "",
-            "demand": "nice-to-have",
+            "soft_skill": "]sikitniks",
+            "demand": "critical",
             "trend": "stable"
         }
     ],
@@ -30,56 +30,76 @@
         {
             "languages": [
                 {
-                    "programming_language": "",
-                    "demand": "nice-to-have",
+                    "programming_language": "]python",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "",
-                    "demand": "nice-to-have",
+                    "programming_language": "]scala",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "",
-                    "demand": "nice-to-have",
+                    "programming_language": "]java",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "]c++",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "]go",
+                    "demand": "critical",
                     "trend": "stable"
                 }
             ],
             "frameworks": [
                 {
-                    "framework_for_programming_language": "",
-                    "demand": "nice-to-have",
+                    "framework_for_programming_language": "]tensorflow",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "",
-                    "demand": "nice-to-have",
+                    "framework_for_programming_language": "]pytorch",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "",
-                    "demand": "nice-to-have",
+                    "framework_for_programming_language": "]scikitlearn",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "]pandas",
+                    "demand": "critical",
                     "trend": "stable"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": "",
-                    "demand": "nice-to-have",
+                    "infrastructure": "]docker",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "infrastructure": "",
-                    "demand": "nice-to-have",
+                    "infrastructure": "]kubernetes",
+                    "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "infrastructure": "",
-                    "demand": "nice-to-have",
+                    "infrastructure": "]aws",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "]azure",
+                    "demand": "critical",
                     "trend": "stable"
                 }
             ]
         }
     ],
-    "generated_at": "05.04.2026 23:50:27"
+    "generated_at": "06.04.2026 00:25:48"
 }

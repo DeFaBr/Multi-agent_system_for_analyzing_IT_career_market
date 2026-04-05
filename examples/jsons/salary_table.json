@@ -3,80 +3,80 @@
         "junior_salaries": {
             "moscow_salaries": {
                 "minimum_salary": 150000,
-                "average_salary": 180000,
-                "maximum_salary": 400000
-            },
-            "regions_of_russia_salaries": {
-                "minimum_salary": 140000,
-                "average_salary": 170000,
+                "average_salary": 190000,
                 "maximum_salary": 450000
             },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 100000,
+                "average_salary": 140000,
+                "maximum_salary": 400000
+            },
             "abroad_salaries": {
-                "minimum_salary": 600000,
-                "average_salary": 1500000,
-                "maximum_salary": 4000000
+                "minimum_salary": 50000,
+                "average_salary": 90000,
+                "maximum_salary": 150000
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 180000,
-                "average_salary": 500000,
+                "minimum_salary": 190000,
+                "average_salary": 400000,
                 "maximum_salary": 900000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 160000,
-                "average_salary": 400000,
-                "maximum_salary": 800000
+                "minimum_salary": 140000,
+                "average_salary": 190000,
+                "maximum_salary": 500000
             },
             "abroad_salaries": {
-                "minimum_salary": 800000,
-                "average_salary": 1800000,
-                "maximum_salary": 600000
+                "minimum_salary": 90000,
+                "average_salary": 140000,
+                "maximum_salary": 400000
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 450000,
-                "average_salary": 1100000,
-                "maximum_salary": 1800000
+                "minimum_salary": 400000,
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "regions_of_russia_salaries": {
                 "minimum_salary": 400000,
-                "average_salary": 950000,
-                "maximum_salary": 1600000
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "abroad_salaries": {
-                "minimum_salary": 1800000,
-                "average_salary": 4500000,
+                "minimum_salary": 150000,
+                "average_salary": 400000,
                 "maximum_salary": 1000000
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 1100000,
-                "average_salary": 1800000,
+                "minimum_salary": 900000,
+                "average_salary": 1500000,
                 "maximum_salary": 4000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 1700000,
-                "maximum_salary": 4000000
+                "minimum_salary": 500000,
+                "average_salary": 900000,
+                "maximum_salary": 1500000
             },
             "abroad_salaries": {
-                "minimum_salary": 4000000,
-                "average_salary": 9000000,
-                "maximum_salary": 15000000
+                "minimum_salary": 400000,
+                "average_salary": 1000000,
+                "maximum_salary": 1500000
             }
         }
     },
     "market_trend": "growing",
-    "short_explaination_of_market_trend": ",Python and ML skills are highly in demand globally, with strong growth expected in cloud and deep learning expertise.",
+    "short_explaination_of_market_trend": "The market for Data Science and MLOps skills is experiencing high demand across all specified technologies, leading to strong salary growth for skilled professionals.",
     "top_companies_for_these_skills": [
-        "Google DeepMind",
-        "),",
-        ", ",
-        "Amazon Web Services",
-        "),,"
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Meta",
+        "Netflix"
     ],
-    "generated_at": "05.04.2026 23:30:50"
+    "generated_at": "06.04.2026 00:29:19"
 }

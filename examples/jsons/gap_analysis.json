@@ -2,26 +2,32 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": ""
+                "hard_skill": ": Python"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Scikit Learn"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Pandas"
+            },
+            {
+                "hard_skill": ": TensorFlow or PyTorch"
+            },
+            {
+                "hard_skill": ": Docker and Kubernetes"
             }
         ],
         "long_term": [
             {
-                "hard_skill": ""
+                "hard_skill": ": Scala or Java or C++ or Go (for backend performance or specialized ML tasks)"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Advanced ML Framework Features (e.e. advanced PyTorch modules)"
             },
             {
-                "hard_skill": ""
+                "hard_skill": ": Advanced Infrastructure (e.e. Kubernetes Operators or AWS services)"
             }
         ]
     },
-    "generated_at": "05.04.2026 23:33:26"
+    "generated_at": "06.04.2026 00:34:18"
 }

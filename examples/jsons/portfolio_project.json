@@ -1,24 +1,24 @@
 {
     "portfolio_project": {
-        "project_name": "End-to-End Deep Learning Deployment Pipeline",
-        "project_description": "Develop a complete machine learning model, containerize it using Docker, deploy it on a cloud platform like AWS or GCP, and manage infrastructure with Kubernetes, all orchestrated using Python and relevant ML frameworks.",
+        "project_name": ": Scalable Deep Learning Inference Service on Cloud Platform",
+        "project_description": ": A complete pipeline that ingests raw data using Pandas transformations trains a complex deep learning model (using PyTorch or TensorFlow) evaluates its performance using Scikit Learn metrics containerizes the final model and serves it via a Kubernetes deployment on AWS or Azure.",
         "list_of_technologies": [
             {
-                "hard_skill_name": "Python (for scripting and ML logic)"
+                "hard_skill_name": ": Python"
             },
             {
-                "hard_skill_name": "TensorFlow or PyTorch (for model development)"
+                "hard_skill_name": ": PyTorch or TensorFlow"
             },
             {
-                "hard_skill_name": "Docker (for containerization)"
+                "hard_skill_name": ": Pandas"
             },
             {
-                "hard_skill_name": "Kubernetes (for orchestration)"
+                "hard_skill_name": ": Scikit Learn"
             },
             {
-                "hard_skill_name": "AWS or GCP (for cloud infrastructure)"
+                "hard_skill_name": ": Docker and Kubernetes (AWS or Azure)"
             }
         ]
     },
-    "generated_at": "05.04.2026 23:33:26"
+    "generated_at": "06.04.2026 00:34:18"
 }

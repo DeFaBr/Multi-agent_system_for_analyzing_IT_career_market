@@ -1,24 +1,24 @@
 {
     "portfolio_project": {
-        "project_name": ": Scalable Deep Learning Inference Service on Cloud Platform",
-        "project_description": ": A complete pipeline that ingests raw data using Pandas transformations trains a complex deep learning model (using PyTorch or TensorFlow) evaluates its performance using Scikit Learn metrics containerizes the final model and serves it via a Kubernetes deployment on AWS or Azure.",
+        "project_name": "]Dynamic Data Visualization Dashboard for iOS",
+        "project_description": "]An application that fetches real-time or simulated data (e.g., stock data, weather, or a custom dataset), displays it using a modern SwiftUI interface, leverages UIKit for specific complex navigation or legacy integration if required, and includes custom visual effects implemented via Core Animation for enhanced user experience. This project demonstrates proficiency across Swift, SwiftUI, UIKit, Foundation, and Core Animation.",
         "list_of_technologies": [
             {
-                "hard_skill_name": ": Python"
+                "hard_skill_name": "]Swift Programming Language"
             },
             {
-                "hard_skill_name": ": PyTorch or TensorFlow"
+                "hard_skill_name": "]SwiftUI Framework"
             },
             {
-                "hard_skill_name": ": Pandas"
+                "hard_skill_name": "]UIKit Framework"
             },
             {
-                "hard_skill_name": ": Scikit Learn"
+                "hard_skill_name": "]Core Animation"
             },
             {
-                "hard_skill_name": ": Docker and Kubernetes (AWS or Azure)"
+                "hard_skill_name": "]Foundation"
             }
         ]
     },
-    "generated_at": "06.04.2026 00:34:18"
+    "generated_at": "06.04.2026 01:11:39"
 }

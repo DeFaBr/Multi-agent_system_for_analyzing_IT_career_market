@@ -2,81 +2,81 @@
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 150000,
-                "average_salary": 190000,
-                "maximum_salary": 450000
+                "minimum_salary": 327777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 100000,
-                "average_salary": 140000,
-                "maximum_salary": 400000
+                "minimum_salary": 277777,
+                "average_salary": 327777,
+                "maximum_salary": 777777
             },
             "abroad_salaries": {
-                "minimum_salary": 50000,
-                "average_salary": 90000,
-                "maximum_salary": 150000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 190000,
-                "average_salary": 400000,
-                "maximum_salary": 900000
+                "minimum_salary": 377777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 140000,
-                "average_salary": 190000,
-                "maximum_salary": 500000
+                "minimum_salary": 327777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "abroad_salaries": {
-                "minimum_salary": 90000,
-                "average_salary": 140000,
-                "maximum_salary": 400000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "abroad_salaries": {
-                "minimum_salary": 150000,
-                "average_salary": 400000,
-                "maximum_salary": 1000000
+                "minimum_salary": 2222222,
+                "average_salary": 2222222,
+                "maximum_salary": 7777777
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 1500000,
-                "maximum_salary": 4000000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 500000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "abroad_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 1000000,
-                "maximum_salary": 1500000
+                "minimum_salary": 2222222,
+                "average_salary": 2222222,
+                "maximum_salary": 7777777
             }
         }
     },
-    "market_trend": "growing",
-    "short_explaination_of_market_trend": "The market for Data Science and MLOps skills is experiencing high demand across all specified technologies, leading to strong salary growth for skilled professionals.",
+    "market_trend": "declining",
+    "short_explaination_of_market_trend": "The demand for Swift and SwiftUI is rapidly increasing for iOS development roles across all regions and abroad due to Apple''' popular ecosystem growth.",
     "top_companies_for_these_skills": [
+        "Apple Inc",
         "Google",
+        "Meta Platforms",
         "Microsoft",
-        "Amazon",
-        "Meta",
-        "Netflix"
+        "Tesla"
     ],
-    "generated_at": "06.04.2026 00:29:19"
+    "generated_at": "06.04.2026 01:07:36"
 }

@@ -1,28 +1,28 @@
 {
     "soft_skills": [
         {
-            "soft_skill": "]sikitniks",
+            "soft_skill": "]Swift Programming Language",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "]Objective-C",
+            "demand": "important",
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "]UIKit Framework",
             "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "]sikitniks",
+            "soft_skill": "]SwiftUI Framework",
             "demand": "critical",
-            "trend": "stable"
+            "trend": "growing"
         },
         {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
+            "soft_skill": "]Core Animation",
+            "demand": "important",
             "trend": "stable"
         }
     ],
@@ -30,76 +30,56 @@
         {
             "languages": [
                 {
-                    "programming_language": "]python",
+                    "programming_language": "]Swift",
                     "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "]Objective-C",
+                    "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "]scala",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]java",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]c++",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]go",
-                    "demand": "critical",
+                    "programming_language": "]C++",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ],
             "frameworks": [
                 {
-                    "framework_for_programming_language": "]tensorflow",
+                    "framework_for_programming_language": "]UIKit",
                     "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "]pytorch",
+                    "framework_for_programming_language": "]SwiftUI",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "framework_for_programming_language": "]scikitlearn",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "framework_for_programming_language": "]pandas",
-                    "demand": "critical",
+                    "framework_for_programming_language": "]Foundation",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": "]docker",
+                    "infrastructure": "]iOS Platform",
                     "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "infrastructure": "]kubernetes",
+                    "infrastructure": "]Apple Ecosystem",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "infrastructure": "]aws",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "infrastructure": "]azure",
-                    "demand": "critical",
+                    "infrastructure": "]App Development Lifecycle",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ]
         }
     ],
-    "generated_at": "06.04.2026 00:25:48"
+    "generated_at": "06.04.2026 01:03:48"
 }

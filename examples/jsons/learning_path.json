@@ -3,36 +3,29 @@
         "foundation": {
             "themes_list": [
                 {
-                    "theme": ": Python Programming Fundamentals: Syntax Data Structures Control Flow"
+                    "theme": "]Foundation Language Concepts with Swift"
                 },
                 {
-                    "theme": ": Core Concepts of Machine Learning (ML) and Deep Learning (DL)"
+                    "theme": "]Basic Swift Syntax and Control Flow"
                 },
                 {
-                    "theme": ": NumPy and Pandas for Data Manipulation"
+                    "theme": "]Understanding Object-Oriented Programming in Swift"
                 },
                 {
-                    "theme": ": Introduction to Scikit Learn for ML Algorithms"
-                },
-                {
-                    "theme": ": Basic concepts of Docker for Containerization"
+                    "theme": "]Introduction to Apple Development Environment (Xcode)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Official Python documentation and interactive tutorials (e.e. Python Crash Course)",
+                    "resource": "]Apple Swift Documentation for Beginners (Swift Tutorial)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": Coursera or ed X courses on Machine Learning Fundamentals (e.e. Andrew Ng courses)",
+                    "resource": "]Codecademy Swift Course (Introductory Modules)",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": Pandas documentation and DataCamp tutorials for data wrangling and analysis}",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": Docker official documentation and tutorials for basic container setup}",
+                    "resource": "]Swift Playgrounds App",
                     "resource_type": "documentation"
                 }
             ]
@@ -40,73 +33,59 @@
         "practice": {
             "themes_list": [
                 {
-                    "theme": ": Advanced Python for Data Science (Object Oriented Programming and efficient scripting)"
+                    "theme": "]Implementing UIKit User Interface Components"
                 },
                 {
-                    "theme": ": Implementing ML Models using Scikit Learn (Classification and Regression)"
+                    "theme": "]Building Responsive Views with SwiftUI"
                 },
                 {
-                    "theme": ": Building Data Pipelines with Pandas for ETL operations"
+                    "theme": "]Integrating Core Animation for Visual Effects"
                 },
                 {
-                    "theme": ": Containerizing ML Models using Docker (Creating Dockerfiles and running containers)"
-                },
-                {
-                    "theme": ": Introduction to Kubernetes for Orchestration (Basic concepts for deploying ML services)"
+                    "theme": "]Asynchronous Programming with Swift Concurrency (Async/Await)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Kaggle datasets for hands on ML problems and competitions}",
+                    "resource": "]Stanford CS294: Foundations of Computer Science (Relevant iOS/Programming concepts)",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": Scikit Learn user guides and tutorials focusing on model training and evaluation}",
+                    "resource": "]Apple Developer Documentation for UIKit and SwiftUI",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": Tutorials on Pandas for complex data cleaning and feature engineering}",
+                    "resource": "]YouTube Tutorials on Core Animation and SwiftUI State Management",
                     "resource_type": "course"
-                },
-                {
-                    "resource": ": Docker tutorials covering multi\u2011stage builds and environment setup}",
-                    "resource_type": "documentation"
                 }
             ]
         },
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": ": End to End ML Model Deployment Pipeline"
+                    "theme": "]Develop a Cross-Platform Data Display Application using SwiftUI and UIKit integration"
                 },
                 {
-                    "theme": ": Data Ingestion and Preprocessing using Python and Pandas"
+                    "theme": "]Implement Complex UI interactions using SwiftUI state management"
                 },
                 {
-                    "theme": ": Model Training and Evaluation using Scikit Learn"
+                    "theme": "]Incorporate custom animations and transitions using Core Animation"
                 },
                 {
-                    "theme": ": Containerization of the Trained Model using Docker"
-                },
-                {
-                    "theme": ": Deployment Simulation using basic Kubernetes concepts"
+                    "theme": "]Implement Data Persistence using Foundation (or Core Data if time permits)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": A complex dataset from Kaggle or a real business problem}",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": GitHub repository for all code and Dockerfiles}",
+                    "resource": "]Build a complete tutorial following a modern iOS app structure on a platform like Medium or Dev.to",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": A simple deployment script or documentation showing how Docker and Kubernetes interact with the model}",
-                    "resource_type": "course"
+                    "resource": "]GitHub Repository for the final project",
+                    "resource_type": "documentation"
                 }
             ]
         }
     },
-    "generated_at": "06.04.2026 00:34:18"
+    "generated_at": "06.04.2026 01:11:39"
 }

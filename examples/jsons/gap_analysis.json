@@ -2,32 +2,29 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": ": Python"
+                "hard_skill": "]Swift Programming Language"
             },
             {
-                "hard_skill": ": Scikit Learn"
+                "hard_skill": "]SwiftUI Framework"
             },
             {
-                "hard_skill": ": Pandas"
+                "hard_skill": "]UIKit Framework"
             },
             {
-                "hard_skill": ": TensorFlow or PyTorch"
-            },
-            {
-                "hard_skill": ": Docker and Kubernetes"
+                "hard_skill": "]Foundation"
             }
         ],
         "long_term": [
             {
-                "hard_skill": ": Scala or Java or C++ or Go (for backend performance or specialized ML tasks)"
+                "hard_skill": "]Objective-OC"
             },
             {
-                "hard_skill": ": Advanced ML Framework Features (e.e. advanced PyTorch modules)"
+                "hard_skill": "]Core Animation"
             },
             {
-                "hard_skill": ": Advanced Infrastructure (e.e. Kubernetes Operators or AWS services)"
+                "hard_skill": "]Objective-OC in context with Swift"
             }
         ]
     },
-    "generated_at": "06.04.2026 00:34:18"
+    "generated_at": "06.04.2026 01:11:39"
 }

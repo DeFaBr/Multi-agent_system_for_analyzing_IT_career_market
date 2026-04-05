@@ -170,3 +170,87 @@
 2026-04-06 00:35:25,688 | INFO     | File ML_Engineer_report.md was currently created
 2026-04-06 00:35:25,688 | INFO     | === Critic done its work in 48.98 ===
 2026-04-06 00:35:26,040 | INFO     | === Agents done work ===
+2026-04-06 01:01:29,341 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:01:29,449 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:01:29,757 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:01:29,813 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:01:30,065 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-06 01:01:30,269 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-06 01:01:32,009 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it "HTTP/1.1 200 OK"
+2026-04-06 01:01:32,316 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:01:32,422 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:01:32,726 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization_bitsandbytes/revision/main "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:01:32,931 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization-bitsandbytes/revision/main "HTTP/1.1 200 OK"
+2026-04-06 01:01:32,934 | WARNING  | Failed to load CPU gemm_4bit_forward from kernels-community: Cannot install kernel from repo kernels-community/quantization_bitsandbytes (revision: main). Please make sure you already `pip install kernels` and the kernels >= 0.11.1
+2026-04-06 01:01:39,997 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:01:40,099 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/generation_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:01:40,220 | INFO     | === Initializing Market Analist agent [google/gemma-4-E2B-it] ===
+2026-04-06 01:01:40,220 | INFO     | Generating skills for profession: IOS Developer (Swift)
+2026-04-06 01:03:48,273 | INFO     | File skill_map.json currently saved
+2026-04-06 01:03:48,273 | INFO     | === Market Analist done its work in 128.05 ===
+2026-04-06 01:03:54,242 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:03:54,349 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:03:54,657 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:03:54,759 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:03:54,965 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-06 01:03:55,169 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-06 01:03:57,012 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it "HTTP/1.1 200 OK"
+2026-04-06 01:03:57,319 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:03:57,422 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:03:57,729 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization_bitsandbytes/revision/main "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:03:57,934 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization-bitsandbytes/revision/main "HTTP/1.1 200 OK"
+2026-04-06 01:03:57,936 | WARNING  | Failed to load CPU gemm_4bit_forward from kernels-community: Cannot install kernel from repo kernels-community/quantization_bitsandbytes (revision: main). Please make sure you already `pip install kernels` and the kernels >= 0.11.1
+2026-04-06 01:04:05,096 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:04:05,198 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/generation_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:04:05,324 | INFO     | === Initializing Market Evaluator agent [google/gemma-4-E2B-it] ===
+2026-04-06 01:04:05,324 | INFO     | Generating salaries examples
+2026-04-06 01:04:05,324 | INFO     | file skill_map.json was currently read
+2026-04-06 01:07:36,133 | INFO     | File salary_table.json currently saved
+2026-04-06 01:07:36,134 | INFO     | === Market Evaluator done its work in 210.81 ===
+2026-04-06 01:07:42,909 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:07:43,015 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:07:43,323 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:07:43,528 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:07:43,831 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-06 01:07:44,040 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-06 01:07:45,878 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it "HTTP/1.1 200 OK"
+2026-04-06 01:07:46,191 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:07:46,293 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:07:46,600 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization_bitsandbytes/revision/main "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:07:46,806 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization-bitsandbytes/revision/main "HTTP/1.1 200 OK"
+2026-04-06 01:07:46,809 | WARNING  | Failed to load CPU gemm_4bit_forward from kernels-community: Cannot install kernel from repo kernels-community/quantization_bitsandbytes (revision: main). Please make sure you already `pip install kernels` and the kernels >= 0.11.1
+2026-04-06 01:07:53,973 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:07:54,076 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/generation_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:07:54,196 | INFO     | === Initializing Career Abvisor agent [google/gemma-4-E2B-it] ===
+2026-04-06 01:07:54,196 | INFO     | Generating learning materials
+2026-04-06 01:07:54,196 | INFO     | file skill_map.json was currently read
+2026-04-06 01:07:54,196 | INFO     | file salary_table.json was currently read
+2026-04-06 01:11:39,744 | INFO     | File learning_path.json currently saved
+2026-04-06 01:11:39,744 | INFO     | File gap_analysis.json currently saved
+2026-04-06 01:11:39,745 | INFO     | File portfolio_project.json currently saved
+2026-04-06 01:11:39,745 | INFO     | === Career Abvisor done its work in 225.55 ===
+2026-04-06 01:11:43,103 | INFO     | File full.json currently saved
+2026-04-06 01:11:46,500 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:11:46,608 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:11:46,915 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:11:47,018 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:11:47,223 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-06 01:11:47,427 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-06 01:11:49,168 | INFO     | HTTP Request: GET https://huggingface.co/api/models/google/gemma-4-E2B-it "HTTP/1.1 200 OK"
+2026-04-06 01:11:49,475 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:11:49,578 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/config.json "HTTP/1.1 200 OK"
+2026-04-06 01:11:49,848 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization_bitsandbytes/revision/main "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:11:50,089 | INFO     | HTTP Request: GET https://huggingface.co/api/models/kernels-community/quantization-bitsandbytes/revision/main "HTTP/1.1 200 OK"
+2026-04-06 01:11:50,092 | WARNING  | Failed to load CPU gemm_4bit_forward from kernels-community: Cannot install kernel from repo kernels-community/quantization_bitsandbytes (revision: main). Please make sure you already `pip install kernels` and the kernels >= 0.11.1
+2026-04-06 01:11:57,252 | INFO     | HTTP Request: HEAD https://huggingface.co/google/gemma-4-E2B-it/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-06 01:11:57,360 | INFO     | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/gemma-4-E2B-it/4742fe843cc01b9aed62122f6e0ddd13ea48b3d3/generation_config.json "HTTP/1.1 200 OK"
+2026-04-06 01:11:57,479 | INFO     | === Initializing Critic agent [google/gemma-4-E2B-it] ===
+2026-04-06 01:11:57,479 | INFO     | Match all parametres
+2026-04-06 01:11:57,479 | INFO     | file full.json was currently read
+2026-04-06 01:12:40,770 | INFO     | File quality_score.json currently saved
+2026-04-06 01:12:40,770 | INFO     | File warnings.json currently saved
+2026-04-06 01:12:40,770 | INFO     | File is_consistent.json currently saved
+2026-04-06 01:12:40,771 | INFO     | File IOS_Developer_(Swift)_report.json currently saved
+2026-04-06 01:12:40,771 | INFO     | File IOS_Developer_(Swift)_report.md was currently created
+2026-04-06 01:12:40,771 | INFO     | === Critic done its work in 43.29 ===
+2026-04-06 01:12:41,113 | INFO     | === Agents done work ===

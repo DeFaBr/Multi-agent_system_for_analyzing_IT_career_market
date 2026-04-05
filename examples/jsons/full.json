@@ -1,28 +1,28 @@
 {
     "soft_skills": [
         {
-            "soft_skill": "]sikitniks",
+            "soft_skill": "]Swift Programming Language",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "]Objective-C",
+            "demand": "important",
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "]UIKit Framework",
             "demand": "critical",
             "trend": "stable"
         },
         {
-            "soft_skill": "]sikitniks",
+            "soft_skill": "]SwiftUI Framework",
             "demand": "critical",
-            "trend": "stable"
+            "trend": "growing"
         },
         {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": "]sikitniks",
-            "demand": "critical",
+            "soft_skill": "]Core Animation",
+            "demand": "important",
             "trend": "stable"
         }
     ],
@@ -30,191 +30,164 @@
         {
             "languages": [
                 {
-                    "programming_language": "]python",
+                    "programming_language": "]Swift",
                     "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "]Objective-C",
+                    "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "]scala",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]java",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]c++",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "programming_language": "]go",
-                    "demand": "critical",
+                    "programming_language": "]C++",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ],
             "frameworks": [
                 {
-                    "framework_for_programming_language": "]tensorflow",
+                    "framework_for_programming_language": "]UIKit",
                     "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": "]pytorch",
+                    "framework_for_programming_language": "]SwiftUI",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "framework_for_programming_language": "]scikitlearn",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "framework_for_programming_language": "]pandas",
-                    "demand": "critical",
+                    "framework_for_programming_language": "]Foundation",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": "]docker",
+                    "infrastructure": "]iOS Platform",
                     "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "infrastructure": "]kubernetes",
+                    "infrastructure": "]Apple Ecosystem",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "infrastructure": "]aws",
-                    "demand": "critical",
-                    "trend": "stable"
-                },
-                {
-                    "infrastructure": "]azure",
-                    "demand": "critical",
+                    "infrastructure": "]App Development Lifecycle",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ]
         }
     ],
-    "generated_at": "06.04.2026 00:34:18",
+    "generated_at": "06.04.2026 01:11:39",
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 150000,
-                "average_salary": 190000,
-                "maximum_salary": 450000
+                "minimum_salary": 327777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 100000,
-                "average_salary": 140000,
-                "maximum_salary": 400000
+                "minimum_salary": 277777,
+                "average_salary": 327777,
+                "maximum_salary": 777777
             },
             "abroad_salaries": {
-                "minimum_salary": 50000,
-                "average_salary": 90000,
-                "maximum_salary": 150000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 190000,
-                "average_salary": 400000,
-                "maximum_salary": 900000
+                "minimum_salary": 377777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 140000,
-                "average_salary": 190000,
-                "maximum_salary": 500000
+                "minimum_salary": 327777,
+                "average_salary": 377777,
+                "maximum_salary": 777777
             },
             "abroad_salaries": {
-                "minimum_salary": 90000,
-                "average_salary": 140000,
-                "maximum_salary": 400000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "abroad_salaries": {
-                "minimum_salary": 150000,
-                "average_salary": 400000,
-                "maximum_salary": 1000000
+                "minimum_salary": 2222222,
+                "average_salary": 2222222,
+                "maximum_salary": 7777777
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 1500000,
-                "maximum_salary": 4000000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 500000,
-                "average_salary": 900000,
-                "maximum_salary": 1500000
+                "minimum_salary": 777777,
+                "average_salary": 777777,
+                "maximum_salary": 2222222
             },
             "abroad_salaries": {
-                "minimum_salary": 400000,
-                "average_salary": 1000000,
-                "maximum_salary": 1500000
+                "minimum_salary": 2222222,
+                "average_salary": 2222222,
+                "maximum_salary": 7777777
             }
         }
     },
-    "market_trend": "growing",
-    "short_explaination_of_market_trend": "The market for Data Science and MLOps skills is experiencing high demand across all specified technologies, leading to strong salary growth for skilled professionals.",
+    "market_trend": "declining",
+    "short_explaination_of_market_trend": "The demand for Swift and SwiftUI is rapidly increasing for iOS development roles across all regions and abroad due to Apple''' popular ecosystem growth.",
     "top_companies_for_these_skills": [
+        "Apple Inc",
         "Google",
+        "Meta Platforms",
         "Microsoft",
-        "Amazon",
-        "Meta",
-        "Netflix"
+        "Tesla"
     ],
     "learning": {
         "foundation": {
             "themes_list": [
                 {
-                    "theme": ": Python Programming Fundamentals: Syntax Data Structures Control Flow"
+                    "theme": "]Foundation Language Concepts with Swift"
                 },
                 {
-                    "theme": ": Core Concepts of Machine Learning (ML) and Deep Learning (DL)"
+                    "theme": "]Basic Swift Syntax and Control Flow"
                 },
                 {
-                    "theme": ": NumPy and Pandas for Data Manipulation"
+                    "theme": "]Understanding Object-Oriented Programming in Swift"
                 },
                 {
-                    "theme": ": Introduction to Scikit Learn for ML Algorithms"
-                },
-                {
-                    "theme": ": Basic concepts of Docker for Containerization"
+                    "theme": "]Introduction to Apple Development Environment (Xcode)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Official Python documentation and interactive tutorials (e.e. Python Crash Course)",
+                    "resource": "]Apple Swift Documentation for Beginners (Swift Tutorial)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": Coursera or ed X courses on Machine Learning Fundamentals (e.e. Andrew Ng courses)",
+                    "resource": "]Codecademy Swift Course (Introductory Modules)",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": Pandas documentation and DataCamp tutorials for data wrangling and analysis}",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": Docker official documentation and tutorials for basic container setup}",
+                    "resource": "]Swift Playgrounds App",
                     "resource_type": "documentation"
                 }
             ]
@@ -222,70 +195,56 @@
         "practice": {
             "themes_list": [
                 {
-                    "theme": ": Advanced Python for Data Science (Object Oriented Programming and efficient scripting)"
+                    "theme": "]Implementing UIKit User Interface Components"
                 },
                 {
-                    "theme": ": Implementing ML Models using Scikit Learn (Classification and Regression)"
+                    "theme": "]Building Responsive Views with SwiftUI"
                 },
                 {
-                    "theme": ": Building Data Pipelines with Pandas for ETL operations"
+                    "theme": "]Integrating Core Animation for Visual Effects"
                 },
                 {
-                    "theme": ": Containerizing ML Models using Docker (Creating Dockerfiles and running containers)"
-                },
-                {
-                    "theme": ": Introduction to Kubernetes for Orchestration (Basic concepts for deploying ML services)"
+                    "theme": "]Asynchronous Programming with Swift Concurrency (Async/Await)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Kaggle datasets for hands on ML problems and competitions}",
+                    "resource": "]Stanford CS294: Foundations of Computer Science (Relevant iOS/Programming concepts)",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": Scikit Learn user guides and tutorials focusing on model training and evaluation}",
+                    "resource": "]Apple Developer Documentation for UIKit and SwiftUI",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": Tutorials on Pandas for complex data cleaning and feature engineering}",
+                    "resource": "]YouTube Tutorials on Core Animation and SwiftUI State Management",
                     "resource_type": "course"
-                },
-                {
-                    "resource": ": Docker tutorials covering multi\u2011stage builds and environment setup}",
-                    "resource_type": "documentation"
                 }
             ]
         },
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": ": End to End ML Model Deployment Pipeline"
+                    "theme": "]Develop a Cross-Platform Data Display Application using SwiftUI and UIKit integration"
                 },
                 {
-                    "theme": ": Data Ingestion and Preprocessing using Python and Pandas"
+                    "theme": "]Implement Complex UI interactions using SwiftUI state management"
                 },
                 {
-                    "theme": ": Model Training and Evaluation using Scikit Learn"
+                    "theme": "]Incorporate custom animations and transitions using Core Animation"
                 },
                 {
-                    "theme": ": Containerization of the Trained Model using Docker"
-                },
-                {
-                    "theme": ": Deployment Simulation using basic Kubernetes concepts"
+                    "theme": "]Implement Data Persistence using Foundation (or Core Data if time permits)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": A complex dataset from Kaggle or a real business problem}",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": GitHub repository for all code and Dockerfiles}",
+                    "resource": "]Build a complete tutorial following a modern iOS app structure on a platform like Medium or Dev.to",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": A simple deployment script or documentation showing how Docker and Kubernetes interact with the model}",
-                    "resource_type": "course"
+                    "resource": "]GitHub Repository for the final project",
+                    "resource_type": "documentation"
                 }
             ]
         }
@@ -293,51 +252,48 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": ": Python"
+                "hard_skill": "]Swift Programming Language"
             },
             {
-                "hard_skill": ": Scikit Learn"
+                "hard_skill": "]SwiftUI Framework"
             },
             {
-                "hard_skill": ": Pandas"
+                "hard_skill": "]UIKit Framework"
             },
             {
-                "hard_skill": ": TensorFlow or PyTorch"
-            },
-            {
-                "hard_skill": ": Docker and Kubernetes"
+                "hard_skill": "]Foundation"
             }
         ],
         "long_term": [
             {
-                "hard_skill": ": Scala or Java or C++ or Go (for backend performance or specialized ML tasks)"
+                "hard_skill": "]Objective-OC"
             },
             {
-                "hard_skill": ": Advanced ML Framework Features (e.e. advanced PyTorch modules)"
+                "hard_skill": "]Core Animation"
             },
             {
-                "hard_skill": ": Advanced Infrastructure (e.e. Kubernetes Operators or AWS services)"
+                "hard_skill": "]Objective-OC in context with Swift"
             }
         ]
     },
     "portfolio_project": {
-        "project_name": ": Scalable Deep Learning Inference Service on Cloud Platform",
-        "project_description": ": A complete pipeline that ingests raw data using Pandas transformations trains a complex deep learning model (using PyTorch or TensorFlow) evaluates its performance using Scikit Learn metrics containerizes the final model and serves it via a Kubernetes deployment on AWS or Azure.",
+        "project_name": "]Dynamic Data Visualization Dashboard for iOS",
+        "project_description": "]An application that fetches real-time or simulated data (e.g., stock data, weather, or a custom dataset), displays it using a modern SwiftUI interface, leverages UIKit for specific complex navigation or legacy integration if required, and includes custom visual effects implemented via Core Animation for enhanced user experience. This project demonstrates proficiency across Swift, SwiftUI, UIKit, Foundation, and Core Animation.",
         "list_of_technologies": [
             {
-                "hard_skill_name": ": Python"
+                "hard_skill_name": "]Swift Programming Language"
             },
             {
-                "hard_skill_name": ": PyTorch or TensorFlow"
+                "hard_skill_name": "]SwiftUI Framework"
             },
             {
-                "hard_skill_name": ": Pandas"
+                "hard_skill_name": "]UIKit Framework"
             },
             {
-                "hard_skill_name": ": Scikit Learn"
+                "hard_skill_name": "]Core Animation"
             },
             {
-                "hard_skill_name": ": Docker and Kubernetes (AWS or Azure)"
+                "hard_skill_name": "]Foundation"
             }
         ]
     }

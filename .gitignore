@@ -1,3 +1,10 @@
+# Special file
+ex.txt
+messages.txt
+clear_salary_table.json
+clear_skill_map.json
+download.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

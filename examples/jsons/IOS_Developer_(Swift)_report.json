@@ -1,0 +1,350 @@
+{
+    "warnings": [],
+    "quality": {
+        "quality_score": 88,
+        "short_explaination_of_quality": ": The data provides a comprehensive and well-}\nand interconnected roadmap for a developer focusing on iOS development with Swift and SwiftUI. The soft skills align well with the technical stack'"
+    },
+    "consistent": "1",
+    "soft_skills": [
+        {
+            "soft_skill": "Problem Solving",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Communication",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Teamwork",
+            "demand": "important",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Adaptability",
+            "demand": "important",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Attention to Detail",
+            "demand": "important",
+            "trend": "growing"
+        }
+    ],
+    "hard_skills": [
+        {
+            "languages": [
+                {
+                    "programming_language": "Swift",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "Objective C",
+                    "demand": "important",
+                    "trend": "declining"
+                },
+                {
+                    "programming_language": "Objective C++",
+                    "demand": "nice-to-have",
+                    "trend": "declining"
+                },
+                {
+                    "programming_language": "Python",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "HTML/CSS",
+                    "demand": "important",
+                    "trend": "stable"
+                }
+            ],
+            "frameworks": [
+                {
+                    "framework_for_programming_language": "SwiftUI",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "UIKit",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "Core Data",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "Combine",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "Core Animation",
+                    "demand": "important",
+                    "trend": "stable"
+                }
+            ],
+            "infrastructures": [
+                {
+                    "infrastructure": "iOS Platform",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Apple Developer Tools",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Xcode",
+                    "demand": "critical",
+                    "trend": "stable"
+                }
+            ]
+        }
+    ],
+    "generated_at": "05.04.2026 10:53:17",
+    "grades": {
+        "junior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 223333,
+                "average_salary": 311111,
+                "maximum_salary": 399999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 199999,
+                "average_salary": 277777,
+                "maximum_salary": 377777
+            },
+            "abroad_salaries": {
+                "minimum_salary": 323333,
+                "average_salary": 399999,
+                "maximum_salary": 799999
+            }
+        },
+        "middle_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 311111,
+                "average_salary": 399999,
+                "maximum_salary": 799999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 277777,
+                "average_salary": 377777,
+                "maximum_salary": 799999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 399999,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            }
+        },
+        "senior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 399999,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 377777,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            }
+        },
+        "lead_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 1299999,
+                "average_salary": 2199999,
+                "maximum_salary": 3199999
+            }
+        }
+    },
+    "market_trend": "growing",
+    "short_explaination_of_market_trend": "The market shows strong and growing demand for Swift and SwiftUI developers. Soft skills like problem-solving and communication are also becoming increasingly critical across the industry.",
+    "top_companies_for_these_skills": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Startup_Company_X"
+    ],
+    "learning": {
+        "foundation": {
+            "themes_list": [
+                {
+                    "theme": ": Swift Fundamentals and Syntax}, {"
+                },
+                {
+                    "theme": ": Object C and Objective C++ Basics (for context)}, {"
+                },
+                {
+                    "theme": ": Basic HTML and CSS (for UI understanding)"
+                },
+                {
+                    "theme": ": Introduction to iOS Platform Concepts"
+                },
+                {
+                    "theme": ": Introduction to SwiftUI Concepts"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": ": Apple's Official Swift Documentation}, {",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": Swift Playgrounds App}, {",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": CS111 - Introduction to HTML and CSS course (Online)",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Apple Developer Documentation for iOS Fundamentals (Online)",
+                    "resource_type": "documentation"
+                }
+            ]
+        },
+        "practice": {
+            "themes_list": [
+                {
+                    "theme": ": Swift Programming Techniques (Closures and Protocols)}, {"
+                },
+                {
+                    "theme": ": SwiftUI Layouts and Views}, {"
+                },
+                {
+                    "theme": ": Using SwiftUI Frameworks (UIKit integration if necessary)}, {"
+                },
+                {
+                    "theme": ": Asynchronous Programming with Combine"
+                },
+                {
+                    "theme": ": Data Persistence with Core Data (or SwiftUI's built-in methods)"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": ": Swift Programming Language Guide (Official Documentation)}, {",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": SwiftUI Tutorials on Apple Developer Website}, {",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ": Combine Framework Documentation and Tutorials},{",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": Core Data Tutorials for iOS Development (Online)",
+                    "resource_type": "course"
+                }
+            ]
+        },
+        "portfolio": {
+            "themes_list": [
+                {
+                    "theme": ": A Fully Functional iOS Application using SwiftUI and Combine}, {"
+                },
+                {
+                    "theme": ": Implementation of Data Persistence using Core Data or SwiftData}, {"
+                },
+                {
+                    "theme": ": Responsive UI Design leveraging SwiftUI Layouts"
+                },
+                {
+                    "theme": ": Clean Code Practices demonstrating Attention to Detail"
+                },
+                {
+                    "theme": ": Efficient State Management using SwiftUI features"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": ": Ideas for iOS App Development (Online Inspiration)}, {",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": GitHub repositories of sample SwiftUI apps (for reference)},{",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ": Peer review sessions with developers (to practice Communication and Problem Solving)",
+                    "resource_type": "documentation"
+                }
+            ]
+        }
+    },
+    "gap_analysis": {
+        "quick_wins": [
+            {
+                "hard_skill": ": Swift and SwiftUI Mastery}, {"
+            },
+            {
+                "hard_skill": ": Understanding of Combine for Async Operations"
+            },
+            {
+                "hard_skill": ": Basic Core Data Implementation"
+            },
+            {
+                "hard_skill": ": Foundational HTML and CSS"
+            },
+            {
+                "hard_skill": ": Familiarity with Xcode and iOS Platform environment"
+            }
+        ],
+        "long_term": [
+            {
+                "hard_skill": ": Advanced Swift features}, {"
+            },
+            {
+                "hard_skill": ": Complex State Management Patterns"
+            },
+            {
+                "hard_skill": ": Advanced Combine usage"
+            },
+            {
+                "hard_skill": ": Performance Optimization"
+            }
+        ]
+    },
+    "portfolio_project": {
+        "project_name": ": Real-Time Data Tracker & Visualization App",
+        "project_description": ": An iOS application built with SwiftUI that fetches real-time data (simulated or real API), manages complex asynchronous data flows using Combine for updates and data fetching across different views (using Core Data for local persistence of tracked items), and features a highly responsive and visually detailed user interface.",
+        "list_of_technologies": [
+            {
+                "hard_skill_name": ": Swift and SwiftUI (Primary development language and UI framework)}, {"
+            },
+            {
+                "hard_skill_name": ": Combine (For managing asynchronous data streams and view model updates)},{"
+            },
+            {
+                "hard_skill_name": ": Core Data (For local data storage and persistence)},{"
+            },
+            {
+                "hard_skill_name": ": HTML and CSS (For understanding basic web context if any external data is displayed)"
+            }
+        ]
+    }
+}

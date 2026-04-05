@@ -1,0 +1,21 @@
+{
+    "portfolio_project": {
+        "project_name": ": Real-Time Data Tracker & Visualization App",
+        "project_description": ": An iOS application built with SwiftUI that fetches real-time data (simulated or real API), manages complex asynchronous data flows using Combine for updates and data fetching across different views (using Core Data for local persistence of tracked items), and features a highly responsive and visually detailed user interface.",
+        "list_of_technologies": [
+            {
+                "hard_skill_name": ": Swift and SwiftUI (Primary development language and UI framework)}, {"
+            },
+            {
+                "hard_skill_name": ": Combine (For managing asynchronous data streams and view model updates)},{"
+            },
+            {
+                "hard_skill_name": ": Core Data (For local data storage and persistence)},{"
+            },
+            {
+                "hard_skill_name": ": HTML and CSS (For understanding basic web context if any external data is displayed)"
+            }
+        ]
+    },
+    "generated_at": "05.04.2026 10:52:07"
+}

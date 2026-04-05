@@ -1,0 +1,82 @@
+{
+    "grades": {
+        "junior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 223333,
+                "average_salary": 311111,
+                "maximum_salary": 399999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 199999,
+                "average_salary": 277777,
+                "maximum_salary": 377777
+            },
+            "abroad_salaries": {
+                "minimum_salary": 323333,
+                "average_salary": 399999,
+                "maximum_salary": 799999
+            }
+        },
+        "middle_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 311111,
+                "average_salary": 399999,
+                "maximum_salary": 799999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 277777,
+                "average_salary": 377777,
+                "maximum_salary": 799999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 399999,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            }
+        },
+        "senior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 399999,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 377777,
+                "average_salary": 799999,
+                "maximum_salary": 1299999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            }
+        },
+        "lead_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 799999,
+                "average_salary": 1299999,
+                "maximum_salary": 2199999
+            },
+            "abroad_salaries": {
+                "minimum_salary": 1299999,
+                "average_salary": 2199999,
+                "maximum_salary": 3199999
+            }
+        }
+    },
+    "market_trend": "growing",
+    "short_explaination_of_market_trend": "The market shows strong and growing demand for Swift and SwiftUI developers. Soft skills like problem-solving and communication are also becoming increasingly critical across the industry.",
+    "top_companies_for_these_skills": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Startup_Company_X"
+    ],
+    "generated_at": "05.04.2026 10:47:19"
+}

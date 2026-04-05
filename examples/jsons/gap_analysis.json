@@ -1,0 +1,36 @@
+{
+    "gap_analysis": {
+        "quick_wins": [
+            {
+                "hard_skill": ": Swift and SwiftUI Mastery}, {"
+            },
+            {
+                "hard_skill": ": Understanding of Combine for Async Operations"
+            },
+            {
+                "hard_skill": ": Basic Core Data Implementation"
+            },
+            {
+                "hard_skill": ": Foundational HTML and CSS"
+            },
+            {
+                "hard_skill": ": Familiarity with Xcode and iOS Platform environment"
+            }
+        ],
+        "long_term": [
+            {
+                "hard_skill": ": Advanced Swift features}, {"
+            },
+            {
+                "hard_skill": ": Complex State Management Patterns"
+            },
+            {
+                "hard_skill": ": Advanced Combine usage"
+            },
+            {
+                "hard_skill": ": Performance Optimization"
+            }
+        ]
+    },
+    "generated_at": "05.04.2026 10:52:07"
+}

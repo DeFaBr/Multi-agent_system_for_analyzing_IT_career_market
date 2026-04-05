@@ -1,0 +1,105 @@
+{
+    "soft_skills": [
+        {
+            "soft_skill": "Problem Solving",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Communication",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Teamwork",
+            "demand": "important",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Adaptability",
+            "demand": "important",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Attention to Detail",
+            "demand": "important",
+            "trend": "growing"
+        }
+    ],
+    "hard_skills": [
+        {
+            "languages": [
+                {
+                    "programming_language": "Swift",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "Objective C",
+                    "demand": "important",
+                    "trend": "declining"
+                },
+                {
+                    "programming_language": "Objective C++",
+                    "demand": "nice-to-have",
+                    "trend": "declining"
+                },
+                {
+                    "programming_language": "Python",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "HTML/CSS",
+                    "demand": "important",
+                    "trend": "stable"
+                }
+            ],
+            "frameworks": [
+                {
+                    "framework_for_programming_language": "SwiftUI",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "UIKit",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "Core Data",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "Combine",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "Core Animation",
+                    "demand": "important",
+                    "trend": "stable"
+                }
+            ],
+            "infrastructures": [
+                {
+                    "infrastructure": "iOS Platform",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Apple Developer Tools",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Xcode",
+                    "demand": "critical",
+                    "trend": "stable"
+                }
+            ]
+        }
+    ],
+    "generated_at": "05.04.2026 10:43:33"
+}

@@ -1,0 +1,310 @@
+{
+    "warnings": [],
+    "quality": {
+        "quality_score": 85,
+        "short_explaination_of_quality": "The data provides a comprehensive overview of a tech stack suitable for a full stack developer with a strong Python backend and cloud deployment skills. The hard skills and learning paths align well with the portfolio project. However,"
+    },
+    "consistent": "0",
+    "soft_skills": [
+        {
+            "soft_skill": "Problem-solving",
+            "demand": "critical",
+            "trend": "declining"
+        },
+        {
+            "soft_skill": "Communication",
+            "demand": "critical",
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "Teamwork",
+            "demand": "critical",
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "Adaptability",
+            "demand": "important",
+            "trend": "stable"
+        }
+    ],
+    "hard_skills": [
+        {
+            "languages": [
+                {
+                    "programming_language": "Python",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "JavaScript",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "Go",
+                    "demand": "nice-to-have",
+                    "trend": "stable"
+                }
+            ],
+            "frameworks": [
+                {
+                    "framework_for_programming_language": "Django",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "Flask",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "framework_for_programming_language": "FastAPI",
+                    "demand": "nice-to-have",
+                    "trend": "stable"
+                }
+            ],
+            "infrastructures": [
+                {
+                    "infrastructure": "AWS",
+                    "demand": "critical",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Docker",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "Kubernetes",
+                    "demand": "nice-to-have",
+                    "trend": "stable"
+                }
+            ]
+        }
+    ],
+    "grades": {
+        "junior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 22361,
+                "average_salary": 32111,
+                "maximum_salary": 37771
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 16121,
+                "average_salary": 23333,
+                "maximum_salary": 27771
+            },
+            "abroad_salaries": {
+                "minimum_salary": 32111,
+                "average_salary": 61211,
+                "maximum_salary": 123333
+            }
+        },
+        "middle_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 37771,
+                "average_salary": 61211,
+                "maximum_salary": 71211
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 27771,
+                "average_salary": 37771,
+                "maximum_salary": 61211
+            },
+            "abroad_salaries": {
+                "minimum_salary": 61211,
+                "average_salary": 123333,
+                "maximum_salary": 161211
+            }
+        },
+        "senior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 61211,
+                "average_salary": 112111,
+                "maximum_salary": 161211
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 37771,
+                "average_salary": 61211,
+                "maximum_salary": 112111
+            },
+            "abroad_salaries": {
+                "minimum_salary": 112111,
+                "average_salary": 161211,
+                "maximum_salary": 223611
+            }
+        },
+        "lead_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 112111,
+                "average_salary": 161211,
+                "maximum_salary": 223611
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 61211,
+                "average_salary": 112111,
+                "maximum_salary": 161211
+            },
+            "abroad_salaries": {
+                "minimum_salary": 161211,
+                "average_salary": 223611,
+                "maximum_salary": 377711
+            }
+        }
+    },
+    "market_trend": "declining",
+    "short_explaination_of_market_trend": "The demand for soft skills like problem-solving is decreasing, while core programming and cloud technologies remain highly stable and critical for the current market.",
+    "top_companies_for_these_skills": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Netflix",
+        "Uber"
+    ],
+    "learning": {
+        "foundation": {
+            "themes_list": [
+                {
+                    "theme": "Python Fundamentals Basics"
+                },
+                {
+                    "theme": "JavaScript Core Concepts"
+                },
+                {
+                    "theme": "Introduction to Django Framework"
+                },
+                {
+                    "theme": "AWS Cloud Fundamentals"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "Python Official Documentation & Beginner Tutorials",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": "MDN Web Docs for JavaScript",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "Django Official Tutorial",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "AWS Certified Cloud Practitioner Training Materials",
+                    "resource_type": "course"
+                }
+            ]
+        },
+        "practice": {
+            "themes_list": [
+                {
+                    "theme": "Python Data Structures and Algorithms"
+                },
+                {
+                    "theme": "JavaScript DOM Manipulation and Async Programming"
+                },
+                {
+                    "theme": "Building a REST API with Flask or Django"
+                },
+                {
+                    "theme": "Implementing basic infrastructure on AWS (EC2, S S, VPC)"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "LeetCode or HackerRank for Python practice",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": "FreeCodeCamp or Udemy for advanced JavaScript",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": "Building a simple CRUD application using Django",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "AWS Free Tier Tutorials and Documentation",
+                    "resource_type": "documentation"
+                }
+            ]
+        },
+        "portfolio": {
+            "themes_list": [
+                {
+                    "theme": "Full Stack Web Application Development"
+                },
+                {
+                    "theme": "Containerization using Docker"
+                },
+                {
+                    "theme": "Deployment of Application on AWS using Docker and Kubernetes (Basic Setup)"
+                },
+                {
+                    "theme": "Integrating Python Backend with JavaScript Frontend"
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "Design a project that uses Python (Django), JavaScript (Frontend), Docker, and deploys to AWS",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "Docker Documentation and Tutorials",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "Kubernetes Introduction Tutorials (Minikube setup)",
+                    "resource_type": "course"
+                }
+            ]
+        }
+    },
+    "gap_analysis": {
+        "quick_wins": [
+            {
+                "hard_skill": "Python (Critical Language)"
+            },
+            {
+                "hard_skill": "Django (Critical Framework)"
+            },
+            {
+                "hard_skill": "AWS (Critical Infrastructure)"
+            }
+        ],
+        "long_term": [
+            {
+                "hard_skill": "JavaScript (Important Language)"
+            },
+            {
+                "hard_skill": "Flask (Important Framework)"
+            },
+            {
+                "hard_skill": "Docker (Important Infrastructure)"
+            }
+        ]
+    },
+    "portfolio_project": {
+        "project_name": "Scalable Microservice Deployment Platform",
+        "project_description": "This project will build a full stack web application where a Python Django backend handles data processing, a JavaScript frontend manages user interaction, the entire application is containerized using Docker, and deployed onto an AWS environment managed by basic Kubernetes concepts for scalability.",
+        "list_of_technologies": [
+            {
+                "hard_skill_name": "Python"
+            },
+            {
+                "hard_skill_name": "Django"
+            },
+            {
+                "hard_skill_name": "JavaScript"
+            },
+            {
+                "hard_skill_name": "AWS"
+            },
+            {
+                "hard_skill_name": "Docker"
+            }
+        ]
+    },
+    "generated_at": "04.04.2026 13:00:26"
+}

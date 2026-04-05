@@ -42,17 +42,17 @@ class Critic(Agent):
 
         full_json_dict = save_dict(FULL_JSON)
 
-        promt = f"""TASK: 
-                        ANALYSE all fields in {full_json_dict} .
-                        If you find some inconsistencies in interconnectedness of collected data GIVE ONE SHORT sentence about each inconsistency . 
-                        GIVE Quality Score and short explaination about received data and these data interconnectedness .
-                        GIVE integrity of consistent of collected data .
-                    CRITICAL RULE:
-                        DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
-                        DO NOT INCLUDE inside the string values characters like: '{{', '}}', '[', ']' ':' .
+        promt = f"""
+                TASK: 
+                ANALYSE all fields in {full_json_dict} .
+                If you find some inconsistencies in interconnectedness of collected data GIVE ONE SHORT sentence about each inconsistency . 
+                GIVE Quality Score and short explaination about received data and these data interconnectedness .
+                GIVE integrity of consistent of collected data .
+                CRITICAL RULE:
+                DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
                 """
 
-        result = self.start(promt, Genral_Match, 7000)
+        result = self.start(promt, Genral_Match, 5000)
 
         try:
             

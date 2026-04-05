@@ -23,7 +23,7 @@ class Framework(BaseModel):
 
 
 class Infrastructure(BaseModel):
-    infrastructure: str = Field(description="IT INFRASTRUCTURE", examples="AWS")
+    infrastructure: str = Field(description="IT INFRASTRUCTURE (e.g. AWS)")
     demand: Literal["critical", "important", "nice-to-have"] = Field(description="choose strictly one of three words") 
     trend: Literal["growing", "stable", "declining"] = Field(description="choose strictly one of three words")
 
@@ -52,18 +52,17 @@ class Market_Analist(Agent):
         start_time = time.time()
         logging.info(f"Generating skills for profession: {profession}")
         
-        promt = f"""TASK: 
-                    You are a professional IT specialist .
-                    GIVE ONLY WHAT IS REQUIRED for {profession} .
-                    CRITICAL RULE:
-                    DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
-                    DO NOT INCLUDE inside the string values characters like: '{{', '}}', '[', ']' ':' .
+        promt = f"""
+                TASK: 
+                GIVE ONLY REQUIRED for {profession} .
+                CRITICAL RULE:
+                DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
                 """
         
         result = self.start(promt, Skills, 3500)
         
         try:
-            
+        
             dictionary = ast.literal_eval(result)
 
             dictionary["generated_at"] = datetime.now().strftime("%d.%m.%Y %H:%M:%S")

@@ -1,30 +1,35 @@
 {
     "warnings": [],
     "quality": {
-        "quality_score": 85,
-        "short_explaination_of_quality": "The data provides a comprehensive overview of a tech stack suitable for a full stack developer with a strong Python backend and cloud deployment skills. The hard skills and learning paths align well with the portfolio project. However,"
+        "quality_score": 9,
+        "short_explaination_of_quality": "The data provides a well-structured overview of required soft skills, technical skills, salary expectations, learning paths, practice areas, portfolio goals, and a specific project. There is a strong, logical flow connecting foundational knowledge to advanced application and market demands. The hard skills, soft skills, and suggested learning paths align well with the project description. The main interconnectedness is strong, showing a clear progression from basic programming to full-stack deployment. The only minor inconsistency is the listed soft skill being empty, which is a data entry issue rather than a structural one. Overall, the data is highly consistent and useful for skill mapping."
     },
-    "consistent": "0",
+    "consistent": "1",
     "soft_skills": [
         {
-            "soft_skill": "Problem-solving",
+            "soft_skill": "",
             "demand": "critical",
-            "trend": "declining"
+            "trend": "growing"
         },
         {
-            "soft_skill": "Communication",
+            "soft_skill": "Problem Solving",
             "demand": "critical",
-            "trend": "stable"
+            "trend": "growing"
         },
         {
-            "soft_skill": "Teamwork",
+            "soft_skill": "Communication Skills",
             "demand": "critical",
-            "trend": "stable"
+            "trend": "growing"
         },
         {
-            "soft_skill": "Adaptability",
-            "demand": "important",
-            "trend": "stable"
+            "soft_skill": "Teamwork and Collaboration",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Adaptability and Learning Agility",
+            "demand": "critical",
+            "trend": "growing"
         }
     ],
     "hard_skills": [
@@ -33,24 +38,29 @@
                 {
                     "programming_language": "Python",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "programming_language": "JavaScript",
+                    "programming_language": "Go",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "Java",
                     "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": "Go",
-                    "demand": "nice-to-have",
-                    "trend": "stable"
+                    "programming_language": "Nodejs",
+                    "demand": "important",
+                    "trend": "growing"
                 }
             ],
             "frameworks": [
                 {
                     "framework_for_programming_language": "Django",
                     "demand": "critical",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
                     "framework_for_programming_language": "Flask",
@@ -59,139 +69,148 @@
                 },
                 {
                     "framework_for_programming_language": "FastAPI",
-                    "demand": "nice-to-have",
-                    "trend": "stable"
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "Pandas",
+                    "demand": "important",
+                    "trend": "growing"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": "AWS",
+                    "infrastructure": "Databases like PostgreSQL and MySQL",
                     "demand": "critical",
                     "trend": "stable"
                 },
                 {
-                    "infrastructure": "Docker",
+                    "infrastructure": "NoSQL Databases like MongoDB and Redis",
                     "demand": "important",
-                    "trend": "stable"
+                    "trend": "growing"
                 },
                 {
-                    "infrastructure": "Kubernetes",
-                    "demand": "nice-to-have",
-                    "trend": "stable"
+                    "infrastructure": "Cloud Platforms like AWS or Azure",
+                    "demand": "important",
+                    "trend": "growing"
                 }
             ]
         }
     ],
+    "generated_at": "05.04.2026 21:58:10",
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 22361,
-                "average_salary": 32111,
-                "maximum_salary": 37771
+                "minimum_salary": 200000,
+                "average_salary": 280000,
+                "maximum_salary": 400000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 16121,
-                "average_salary": 23333,
-                "maximum_salary": 27771
+                "minimum_salary": 220000,
+                "average_salary": 290000,
+                "maximum_salary": 420000
             },
             "abroad_salaries": {
-                "minimum_salary": 32111,
-                "average_salary": 61211,
-                "maximum_salary": 123333
+                "minimum_salary": 400000,
+                "average_salary": 800000,
+                "maximum_salary": 2000000
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 37771,
-                "average_salary": 61211,
-                "maximum_salary": 71211
+                "minimum_salary": 400000,
+                "average_salary": 800000,
+                "maximum_salary": 2000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 27771,
-                "average_salary": 37771,
-                "maximum_salary": 61211
+                "minimum_salary": 480000,
+                "average_salary": 900000,
+                "maximum_salary": 2200000
             },
             "abroad_salaries": {
-                "minimum_salary": 61211,
-                "average_salary": 123333,
-                "maximum_salary": 161211
+                "minimum_salary": 800000,
+                "average_salary": 2000000,
+                "maximum_salary": 4000000
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 61211,
-                "average_salary": 112111,
-                "maximum_salary": 161211
+                "minimum_salary": 800000,
+                "average_salary": 2000000,
+                "maximum_salary": 4000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 37771,
-                "average_salary": 61211,
-                "maximum_salary": 112111
+                "minimum_salary": 900000,
+                "average_salary": 2200000,
+                "maximum_salary": 4800000
             },
             "abroad_salaries": {
-                "minimum_salary": 112111,
-                "average_salary": 161211,
-                "maximum_salary": 223611
+                "minimum_salary": 2000000,
+                "average_salary": 4000000,
+                "maximum_salary": 8000000
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 112111,
-                "average_salary": 161211,
-                "maximum_salary": 223611
+                "minimum_salary": 2000000,
+                "average_salary": 4000000,
+                "maximum_salary": 8000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 61211,
-                "average_salary": 112111,
-                "maximum_salary": 161211
+                "minimum_salary": 2800000,
+                "average_salary": 8000000,
+                "maximum_salary": 20000000
             },
             "abroad_salaries": {
-                "minimum_salary": 161211,
-                "average_salary": 223611,
-                "maximum_salary": 377711
+                "minimum_salary": 4000000,
+                "average_salary": 8000000,
+                "maximum_salary": 20000000
             }
         }
     },
-    "market_trend": "declining",
-    "short_explaination_of_market_trend": "The demand for soft skills like problem-solving is decreasing, while core programming and cloud technologies remain highly stable and critical for the current market.",
+    "market_trend": "stable",
+    "short_explaination_of_market_trend": "The demand for full-stack and cloud-native developers remains high with strong growth in Python and DevOps tools.",
     "top_companies_for_these_skills": [
-        "Google",
-        "Amazon",
-        "Microsoft",
-        "Netflix",
-        "Uber"
+        "Yandex",
+        "VK",
+        "Sberbank",
+        "Yandex Cloud",
+        "MailGorilla"
     ],
     "learning": {
         "foundation": {
             "themes_list": [
                 {
-                    "theme": "Python Fundamentals Basics"
+                    "theme": ", Python Fundamentals (Syntax Structure Data Structures Control Flow)"
                 },
                 {
-                    "theme": "JavaScript Core Concepts"
+                    "theme": ", Version Control with Git and GitHub"
                 },
                 {
-                    "theme": "Introduction to Django Framework"
+                    "theme": ", Basic Database Concepts SQL and Relational Data Modeling"
                 },
                 {
-                    "theme": "AWS Cloud Fundamentals"
+                    "theme": ", Introduction to Web Development Basics HTML and CSS"
+                },
+                {
+                    "theme": ", Basic Command Line Interface Usage and Linux Basics (for Cloud environments)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "Python Official Documentation & Beginner Tutorials",
+                    "resource": ", Official Python Documentation and Tutorials (for syntax and data structures)",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": ", FreeCodeCamp or Codecademy Courses for Python Basics (interactive learning)",
                     "resource_type": "course"
                 },
                 {
-                    "resource": "MDN Web Docs for JavaScript",
+                    "resource": ", Git Documentation and Interactive Git tutorials (for version control)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "Django Official Tutorial",
-                    "resource_type": "documentation"
-                },
-                {
-                    "resource": "AWS Certified Cloud Practitioner Training Materials",
+                    "resource": ", SQLZoo or Khan Academy for SQL Basics (querying and relational concepts)",
                     "resource_type": "course"
                 }
             ]
@@ -199,33 +218,36 @@
         "practice": {
             "themes_list": [
                 {
-                    "theme": "Python Data Structures and Algorithms"
+                    "theme": ", Intermediate Python Concepts (Object-Oriented Programming File I/II)"
                 },
                 {
-                    "theme": "JavaScript DOM Manipulation and Async Programming"
+                    "theme": ", Django Framework Basics (Setting up projects routing templates)"
                 },
                 {
-                    "theme": "Building a REST API with Flask or Django"
+                    "theme": ", RESTful API Development with Flask or FastAPI (Building endpoints)"
                 },
                 {
-                    "theme": "Implementing basic infrastructure on AWS (EC2, S S, VPC)"
+                    "theme": ", Database Interaction (Connecting Python/Framework to PostgreSQL or MongoDB)"
+                },
+                {
+                    "theme": ", Introduction to Cloud Services (Basic AWS/Azure concepts like EC/VM or basic storage)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "LeetCode or HackerRank for Python practice",
-                    "resource_type": "course"
+                    "resource": ", Python OOP Books or Advanced Python Courses (focusing on clean code)",
+                    "resource_type": "book"
                 },
                 {
-                    "resource": "FreeCodeCamp or Udemy for advanced JavaScript",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": "Building a simple CRUD application using Django",
+                    "resource": ", Official Django and FastAPI Documentation (for framework specifics)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "AWS Free Tier Tutorials and Documentation",
+                    "resource": ", Tutorials on Building REST APIs with Flask/FastAPI (practical coding guides)",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": ", MongoDB or Redis Documentation and Tutorials (for NoSQL database operations)",
                     "resource_type": "documentation"
                 }
             ]
@@ -233,30 +255,30 @@
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": "Full Stack Web Application Development"
+                    "theme": ", Full-Stack Web Application with API (Using Python/Django/FastAPI for backend and a frontend interface)"
                 },
                 {
-                    "theme": "Containerization using Docker"
+                    "theme": ", Database Integration (Implementing CRUD operations with PostgreSQL/MongoDB)"
                 },
                 {
-                    "theme": "Deployment of Application on AWS using Docker and Kubernetes (Basic Setup)"
+                    "theme": ", Cloud Deployment (Deploying the application using a simple cloud service like AWS EC/Lambda or a basic VPS)"
                 },
                 {
-                    "theme": "Integrating Python Backend with JavaScript Frontend"
+                    "theme": ", Version Controlled Project Management (Ensuring all code and configurations are tracked)"
                 }
             ],
             "information_resources": [
                 {
-                    "resource": "Design a project that uses Python (Django), JavaScript (Frontend), Docker, and deploys to AWS",
+                    "resource": ", Self-directed development and documentation for every step (This forms the portfolio itself)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "Docker Documentation and Tutorials",
+                    "resource": ", GitHub Repository (The central location for all code and project structure)",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": "Kubernetes Introduction Tutorials (Minikube setup)",
-                    "resource_type": "course"
+                    "resource": ", Cloud Free Tier Accounts (To practice deployment without high cost)",
+                    "resource_type": "documentation"
                 }
             ]
         }
@@ -264,47 +286,52 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": "Python (Critical Language)"
+                "hard_skill": ", Python Programming (Intermediate proficiency)"
             },
             {
-                "hard_skill": "Django (Critical Framework)"
+                "hard_skill": ", Django Framework (Proficiency in building web applications)"
             },
             {
-                "hard_skill": "AWS (Critical Infrastructure)"
+                "hard_skill": ", FastAPI Framework (Experience building high-performance APIs)"
+            },
+            {
+                "hard_skill": ", PostgreSQL/MongoDB (Proficiency in relational and NoSQL database usage)"
+            },
+            {
+                "hard_skill": ", AWS/Azure Basics (Understanding of cloud infrastructure deployment)"
             }
         ],
         "long_term": [
             {
-                "hard_skill": "JavaScript (Important Language)"
+                "hard_skill": ", Go Language (Basic syntax and structure)"
             },
             {
-                "hard_skill": "Flask (Important Framework)"
+                "hard_skill": ", Nodejs (Basic server setup)"
             },
             {
-                "hard_skill": "Docker (Important Infrastructure)"
+                "hard_skill": ", Redis (Intermediate usage for caching)"
             }
         ]
     },
     "portfolio_project": {
-        "project_name": "Scalable Microservice Deployment Platform",
-        "project_description": "This project will build a full stack web application where a Python Django backend handles data processing, a JavaScript frontend manages user interaction, the entire application is containerized using Docker, and deployed onto an AWS environment managed by basic Kubernetes concepts for scalability.",
+        "project_name": ", Scalable Data Processing and API Service Platform",
+        "project_description": ", A full-stack application where a Python backend (using Django or FastAPI) handles data processing tasks (leveraging Pandas) and exposes an API. The application will store processed data in both a relational database like PostgreSQL and a NoSQL database like MongoDB. The entire application will be containerized (using Docker) and deployed on a cloud platform like AWS (using EC or a similar service) to demonstrate full-stack development and cloud infrastructure skills.",
         "list_of_technologies": [
             {
-                "hard_skill_name": "Python"
+                "hard_skill_name": ", Python Programming (Core)"
             },
             {
-                "hard_skill_name": "Django"
+                "hard_skill_name": ", Django or FastAPI (Web Framework)"
             },
             {
-                "hard_skill_name": "JavaScript"
+                "hard_skill_name": ", Pandas (Data Manipulation)"
             },
             {
-                "hard_skill_name": "AWS"
+                "hard_skill_name": ", PostgreSQL (Relational Database)"
             },
             {
-                "hard_skill_name": "Docker"
+                "hard_skill_name": ", MongoDB (NoSQL Database)"
             }
         ]
-    },
-    "generated_at": "04.04.2026 13:00:26"
+    }
 }

@@ -70,14 +70,14 @@ class Career_Abvisor(Agent):
         skills_json_dict = save_dict(READ_JSON_SKILLS)
         salary_json_dict = save_dict(READ_JSON_SALARY)
 
-        promt = f"""TASK:
-                        ANALYSE Hard Skills in {skills_json_dict} and Salaries in {salary_json_dict} .
-                        GIVE Learning path consist of: Foundation, Practice and Portfolio Project, where every stage consist of list of learning themes and information resources, which help to achieve these Hard Skills .
-                        DIVIDED into two groups these Hard Skills to complite the learning in three weeks .
-                        SUGGEST a name and description of a portfolio project that include the greatest number of these Hard Skills and say them too.
-                    CRITICAL RULE:
-                        DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
-                        DO NOT INCLUDE inside the string values characters like: '{{', '}}', '[', ']' ':' .
+        promt = f"""
+                TASK:
+                ANALYSE Hard Skills in {skills_json_dict} and Salaries in {salary_json_dict} .
+                GIVE Learning path consist of: Foundation, Practice and Portfolio Project, where every stage consist of list of learning themes and information resources, which help to achieve these Hard Skills .
+                DIVIDED into two groups these Hard Skills to complite the learning in three weeks .
+                SUGGEST a name and description of a portfolio project that include the greatest number of these Hard Skills and say them too.
+                CRITICAL RULE:
+                DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
                 """
 
         result = self.start(promt, General_Learning, 3500)

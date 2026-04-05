@@ -2,81 +2,81 @@
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 223333,
-                "average_salary": 311111,
-                "maximum_salary": 399999
+                "minimum_salary": 150000,
+                "average_salary": 180000,
+                "maximum_salary": 400000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 199999,
-                "average_salary": 277777,
-                "maximum_salary": 377777
+                "minimum_salary": 140000,
+                "average_salary": 170000,
+                "maximum_salary": 450000
             },
             "abroad_salaries": {
-                "minimum_salary": 323333,
-                "average_salary": 399999,
-                "maximum_salary": 799999
+                "minimum_salary": 600000,
+                "average_salary": 1500000,
+                "maximum_salary": 4000000
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 311111,
-                "average_salary": 399999,
-                "maximum_salary": 799999
+                "minimum_salary": 180000,
+                "average_salary": 500000,
+                "maximum_salary": 900000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 277777,
-                "average_salary": 377777,
-                "maximum_salary": 799999
+                "minimum_salary": 160000,
+                "average_salary": 400000,
+                "maximum_salary": 800000
             },
             "abroad_salaries": {
-                "minimum_salary": 399999,
-                "average_salary": 799999,
-                "maximum_salary": 1299999
+                "minimum_salary": 800000,
+                "average_salary": 1800000,
+                "maximum_salary": 600000
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 399999,
-                "average_salary": 799999,
-                "maximum_salary": 1299999
+                "minimum_salary": 450000,
+                "average_salary": 1100000,
+                "maximum_salary": 1800000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 377777,
-                "average_salary": 799999,
-                "maximum_salary": 1299999
+                "minimum_salary": 400000,
+                "average_salary": 950000,
+                "maximum_salary": 1600000
             },
             "abroad_salaries": {
-                "minimum_salary": 799999,
-                "average_salary": 1299999,
-                "maximum_salary": 2199999
+                "minimum_salary": 1800000,
+                "average_salary": 4500000,
+                "maximum_salary": 1000000
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 799999,
-                "average_salary": 1299999,
-                "maximum_salary": 2199999
+                "minimum_salary": 1100000,
+                "average_salary": 1800000,
+                "maximum_salary": 4000000
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 799999,
-                "average_salary": 1299999,
-                "maximum_salary": 2199999
+                "minimum_salary": 900000,
+                "average_salary": 1700000,
+                "maximum_salary": 4000000
             },
             "abroad_salaries": {
-                "minimum_salary": 1299999,
-                "average_salary": 2199999,
-                "maximum_salary": 3199999
+                "minimum_salary": 4000000,
+                "average_salary": 9000000,
+                "maximum_salary": 15000000
             }
         }
     },
     "market_trend": "growing",
-    "short_explaination_of_market_trend": "The market shows strong and growing demand for Swift and SwiftUI developers. Soft skills like problem-solving and communication are also becoming increasingly critical across the industry.",
+    "short_explaination_of_market_trend": ",Python and ML skills are highly in demand globally, with strong growth expected in cloud and deep learning expertise.",
     "top_companies_for_these_skills": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Meta",
-        "Startup_Company_X"
+        "Google DeepMind",
+        "),",
+        ", ",
+        "Amazon Web Services",
+        "),,"
     ],
-    "generated_at": "05.04.2026 10:47:19"
+    "generated_at": "05.04.2026 23:30:50"
 }

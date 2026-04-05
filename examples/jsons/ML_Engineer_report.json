@@ -1,33 +1,33 @@
 {
     "warnings": [],
     "quality": {
-        "quality_score": 85,
-        "short_explaination_of_quality": ": The data provides a comprehensive and well}$-structured set of skills recommendations covering soft skills hard skills learning practice portfolio and gap analysis with clear links between them."
+        "quality_score": 4,
+        "short_explaination_of_quality": "The data provides a detailed skill set analysis with strong correlations between critical soft skills and high-demand hard skills in AI/ML and Cloud computing."
     },
-    "consistent": "0",
+    "consistent": "1",
     "soft_skills": [
         {
-            "soft_skill": ". Python Programming Language is essential for ML implementation and data manipulation",
+            "soft_skill": "Problem Solving",
             "demand": "critical",
             "trend": "growing"
         },
         {
-            "soft_skill": ". SQL Proficiency for data extraction and manipulation",
-            "demand": "important",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": ". Strong Statistical and Mathematical Foundation",
-            "demand": "critical",
-            "trend": "stable"
-        },
-        {
-            "soft_skill": ". Experience with Libraries like NumPy Pandas ScikitLearn",
+            "soft_skill": "Communication Skills",
             "demand": "critical",
             "trend": "growing"
         },
         {
-            "soft_skill": ". Machine Learning Algorithms Knowledge",
+            "soft_skill": "Collaboration and Teamwork",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Curiosity and Continuous Learning",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Critical Thinking",
             "demand": "critical",
             "trend": "growing"
         }
@@ -36,213 +36,203 @@
         {
             "languages": [
                 {
-                    "programming_language": ". Python",
+                    "programming_language": "Python",
                     "demand": "critical",
-                    "trend": "growing"
+                    "trend": "stable"
                 },
                 {
-                    "programming_language": ". R",
+                    "programming_language": "R",
                     "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "programming_language": ". Scala or Java (for Big Data platforms)",
+                    "programming_language": "Scala",
+                    "demand": "important",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "Java",
                     "demand": "important",
                     "trend": "stable"
                 }
             ],
             "frameworks": [
                 {
-                    "framework_for_programming_language": ". TensorFlow or PyTorch",
+                    "framework_for_programming_language": "TensorFlow",
                     "demand": "critical",
                     "trend": "growing"
                 },
                 {
-                    "framework_for_programming_language": ". Keras",
+                    "framework_for_programming_language": "PyTorch",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "Scikit Learn",
                     "demand": "important",
                     "trend": "stable"
                 },
                 {
-                    "framework_for_programming_language": ". Hugging Face Transformers (for NLP)",
+                    "framework_for_programming_language": "Keras",
                     "demand": "important",
-                    "trend": "growing"
+                    "trend": "stable"
                 }
             ],
             "infrastructures": [
                 {
-                    "infrastructure": ". Cloud Platforms AWS Azure or GCP",
-                    "demand": "important",
-                    "trend": "growing"
-                },
-                {
-                    "infrastructure": ". Containerization Docker and Kubernetes",
-                    "demand": "important",
-                    "trend": "growing"
-                },
-                {
-                    "infrastructure": ". Big Data Technologies Apache Spark or Dask",
-                    "demand": "important",
-                    "trend": "growing"
-                },
-                {
-                    "infrastructure": ". Git for Version Control",
+                    "infrastructure": "Cloud Platforms like AWS Azure GCP",
                     "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "infrastructure": "Containerization Docker Kubernetes",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "infrastructure": "Big Data Technologies Hadoop Spark",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "infrastructure": "SQL and NoSQL Databases",
+                    "demand": "important",
                     "trend": "stable"
                 }
             ]
         }
     ],
-    "generated_at": "05.04.2026 00:53:47",
+    "generated_at": "05.04.2026 23:05:57",
     "grades": {
         "junior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 350000,
-                "average_salary": 550000,
-                "maximum_salary": 750000
+                "minimum_salary": 116161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 300000,
-                "average_salary": 500000,
-                "maximum_salary": 700000
+                "minimum_salary": 116161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "abroad_salaries": {
-                "minimum_salary": 600000,
-                "average_salary": 900000,
-                "maximum_salary": 3000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             }
         },
         "middle_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 550000,
-                "average_salary": 900000,
-                "maximum_salary": 3000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 500000,
-                "average_salary": 950000,
-                "maximum_salary": 3500000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "abroad_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 3500000,
-                "maximum_salary": 7000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             }
         },
         "senior_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 900000,
-                "average_salary": 3500000,
-                "maximum_salary": 6000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 700000,
-                "average_salary": 3000000,
-                "maximum_salary": 5000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "abroad_salaries": {
-                "minimum_salary": 3500000,
-                "average_salary": 7000000,
-                "maximum_salary": 9000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             }
         },
         "lead_salaries": {
             "moscow_salaries": {
-                "minimum_salary": 3000000,
-                "average_salary": 6000000,
-                "maximum_salary": 9000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "regions_of_russia_salaries": {
-                "minimum_salary": 5000000,
-                "average_salary": 9000000,
-                "maximum_salary": 30000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             },
             "abroad_salaries": {
-                "minimum_salary": 7000000,
-                "average_salary": 30000000,
-                "maximum_salary": 50000000
+                "minimum_salary": 166161,
+                "average_salary": 166161,
+                "maximum_salary": 166161
             }
         }
     },
-    "market_trend": "declining",
-    "short_explaination_of_market_trend": "The demand for Machine Learning and Python skills is rapidly increasing, while cloud and MLOps infrastructure skills are becoming essential for high compensation. There is a strong global need for specialized data science talent across all experience levels.",
+    "market_trend": "stable",
+    "short_explaination_of_market_trend": "The market is highly competitive with strong demand for skills in AI/ML and Cloud infrastructure roles across all regions.",
     "top_companies_for_these_skills": [
-        "Google AI/DeepMind",
-        "Microsoft Research",
-        "Meta AI",
-        "Yandex (for regional projects)",
-        "Large Tech Companies Data Science Teams"
+        "Google Cloud",
+        "Microsoft Azure",
+        "Amazon Web Services",
+        "Meta Platforms",
+        "Netflix"
     ],
     "learning": {
         "foundation": {
             "themes_list": [
                 {
-                    "theme": ": Python Programming Fundamentals (Syntax Structure Data Structures Control Flow)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": Core Mathematics (Linear Algebra Calculus Probability and Statistics)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": SQL Basics (SELECT JOIN GROUP BY Subqueries)"
-                },
-                {
-                    "theme": ": Introduction to Machine Learning Concepts (Supervised Unsupervised Evaluation Metrics)"
-                },
-                {
-                    "theme": ": Introduction to NumPy and Pandas (Array Manipulation DataFrames)"
+                    "theme": ""
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Python Documentation and Official Tutorials (Focus on Data Structures)",
+                    "resource": "",
+                    "resource_type": "book"
+                },
+                {
+                    "resource": "",
+                    "resource_type": "course"
+                },
+                {
+                    "resource": "",
                     "resource_type": "documentation"
-                },
-                {
-                    "resource": ": Khan Academy or MIT OpenCourseWare (For Math Foundations)",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": SQLZoo or Mode Analytics SQL Tutorial (Interactive Practice)",
-                    "resource_type": "course"
-                },
-                {
-                    "resource": ": Kaggle Learn Micro-Courses (Intro to ML/Pandas)",
-                    "resource_type": "course"
                 }
             ]
         },
         "practice": {
             "themes_list": [
                 {
-                    "theme": ": Advanced Python for Data Manipulation (Pandas Operations Data Cleaning)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": Statistical Analysis in Python (Using SciPy for statistical tests)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": Implementing Basic ML Models (Linear Regression Logistic Regression using Scikit-learn)"
-                },
-                {
-                    "theme": ": Building ML Pipelines (Data preprocessing feature engineering model training)"
-                },
-                {
-                    "theme": ": Basic Cloud Concepts (Understanding AWS S3 or Azure Blob Storage)"
+                    "theme": ""
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Python Data Science Handbook (For in-depth Pandas/NumPy)",
+                    "resource": "",
                     "resource_type": "book"
                 },
                 {
-                    "resource": ": Scikit-learn Official Documentation (User Guide for Model Building)",
-                    "resource_type": "documentation"
-                },
-                {
-                    "resource": ": FreeCodeCamp or DataCamp Python/Pandas Courses (Hands-on Coding)",
+                    "resource": "",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": AWS Free Tier Tutorials (Basic Storage and Compute Services)",
+                    "resource": "",
                     "resource_type": "documentation"
                 }
             ]
@@ -250,34 +240,31 @@
         "portfolio": {
             "themes_list": [
                 {
-                    "theme": ": End-to-End ML Project Deployment (Data Ingestion Model Training and Basic Containerization)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": Cloud Deployment (Deploying a simple model endpoint using Docker and a basic Cloud Service)"
+                    "theme": ""
                 },
                 {
-                    "theme": ": Version Control Mastery (Using Git for entire project lifecycle)"
-                },
-                {
-                    "theme": ": Comprehensive Reporting (Documenting methodology results and infrastructure setup)"
+                    "theme": ""
                 }
             ],
             "information_resources": [
                 {
-                    "resource": ": Kaggle Datasets (Find a compelling dataset)",
+                    "resource": "",
+                    "resource_type": "book"
+                },
+                {
+                    "resource": "",
                     "resource_type": "course"
                 },
                 {
-                    "resource": ": GitHub (For hosting all code and documentation)",
+                    "resource": "",
                     "resource_type": "documentation"
                 },
                 {
-                    "resource": ": Docker Documentation (Learning basic Dockerfile creation)",
+                    "resource": "",
                     "resource_type": "documentation"
-                },
-                {
-                    "resource": ": AWS/Azure/ GCP Free Tier Tutorials (Focus on deploying a simple Python application)",
-                    "resource_type": "course"
                 }
             ]
         }
@@ -285,48 +272,45 @@
     "gap_analysis": {
         "quick_wins": [
             {
-                "hard_skill": ": Python Programming Language"
+                "hard_skill": ""
             },
             {
-                "hard_skill": ": Experience with Libraries like NumPy Pandas ScikitLearn"
+                "hard_skill": ""
             },
             {
-                "hard_skill": ": Machine Learning Algorithms Knowledge"
-            },
-            {
-                "hard_skill": ": Git for Version Control"
+                "hard_skill": ""
             }
         ],
         "long_term": [
             {
-                "hard_skill": ": TensorFlow or PyTorch (Framework)"
+                "hard_skill": ""
             },
             {
-                "hard_skill": ": Cloud Platforms AWS Azure or GCP (Infrastructure)"
+                "hard_skill": ""
             },
             {
-                "hard_skill": ": Big Data Technologies Apache Spark or Dask (Infrastructure)"
+                "hard_skill": ""
             }
         ]
     },
     "portfolio_project": {
-        "project_name": ": Real-Time Customer Churn Prediction System with Cloud Deployment",
-        "project_description": ": This project involves building a complete machine learning pipeline to predict customer churn using a real-world dataset. It covers data wrangling with Pandas and NumPy for feature engineering. A classification model (e.g., Logistic Regression or Random Forest) will be built using Scikit-learn. The final model will be containerized using Docker and deployed on a basic Cloud Platform like AWS or Azure to simulate a production environment. Git will be used throughout for version control.",
+        "project_name": "Cloud ML Deployment Pipeline",
+        "project_description": "Develop an end-to-end machine learning project that involves data processing, model training using TensorFlow or PyTorch, containerizing the model with Docker, and deploying the application onto a major Cloud Platform like AWS or Azure, utilizing Kubernetes for orchestration and SQL or NoSQL databases for data storage and serving.",
         "list_of_technologies": [
             {
-                "hard_skill_name": ": Python Programming Language"
+                "hard_skill_name": ""
             },
             {
-                "hard_skill_name": ": Experience with Libraries like NumPy Pandas ScikitLearn"
+                "hard_skill_name": ""
             },
             {
-                "hard_skill_name": ": Machine Learning Algorithms Knowledge"
+                "hard_skill_name": ""
             },
             {
-                "hard_skill_name": ": TensorFlow or PyTorch"
+                "hard_skill_name": ""
             },
             {
-                "hard_skill_name": ": Cloud Platforms AWS Azure or GCP (Infrastructure)"
+                "hard_skill_name": ""
             }
         ]
     }

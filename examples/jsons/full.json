@@ -1,3 +1,280 @@
 {
-    "Error": "'Career_Abvisor' object has no attribute 'device'"
+    "soft_skills": [
+        {
+            "soft_skill": "Python",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "SQL",
+            "demand": "critical",
+            "trend": "stable"
+        },
+        {
+            "soft_skill": "Machine Learning Algorithms",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Deep Learning Frameworks",
+            "demand": "critical",
+            "trend": "growing"
+        },
+        {
+            "soft_skill": "Cloud Platforms AWS Azure GCP",
+            "demand": "critical",
+            "trend": "growing"
+        }
+    ],
+    "hard_skills": [
+        {
+            "languages": [
+                {
+                    "programming_language": "Python",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "programming_language": "R",
+                    "demand": "important",
+                    "trend": "stable"
+                },
+                {
+                    "programming_language": "Scala",
+                    "demand": "important",
+                    "trend": "stable"
+                }
+            ],
+            "frameworks": [
+                {
+                    "framework_for_programming_language": "TensorFlow",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "PyTorch",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "framework_for_programming_language": "ScikitLearn",
+                    "demand": "critical",
+                    "trend": "stable"
+                }
+            ],
+            "infrastructures": [
+                {
+                    "infrastructure": "Docker",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "infrastructure": "Kubernetes",
+                    "demand": "critical",
+                    "trend": "growing"
+                },
+                {
+                    "infrastructure": "AWS",
+                    "demand": "critical",
+                    "trend": "growing"
+                }
+            ]
+        }
+    ],
+    "generated_at": "05.04.2026 23:33:26",
+    "grades": {
+        "junior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 150000,
+                "average_salary": 180000,
+                "maximum_salary": 400000
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 140000,
+                "average_salary": 170000,
+                "maximum_salary": 450000
+            },
+            "abroad_salaries": {
+                "minimum_salary": 600000,
+                "average_salary": 1500000,
+                "maximum_salary": 4000000
+            }
+        },
+        "middle_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 180000,
+                "average_salary": 500000,
+                "maximum_salary": 900000
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 160000,
+                "average_salary": 400000,
+                "maximum_salary": 800000
+            },
+            "abroad_salaries": {
+                "minimum_salary": 800000,
+                "average_salary": 1800000,
+                "maximum_salary": 600000
+            }
+        },
+        "senior_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 450000,
+                "average_salary": 1100000,
+                "maximum_salary": 1800000
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 400000,
+                "average_salary": 950000,
+                "maximum_salary": 1600000
+            },
+            "abroad_salaries": {
+                "minimum_salary": 1800000,
+                "average_salary": 4500000,
+                "maximum_salary": 1000000
+            }
+        },
+        "lead_salaries": {
+            "moscow_salaries": {
+                "minimum_salary": 1100000,
+                "average_salary": 1800000,
+                "maximum_salary": 4000000
+            },
+            "regions_of_russia_salaries": {
+                "minimum_salary": 900000,
+                "average_salary": 1700000,
+                "maximum_salary": 4000000
+            },
+            "abroad_salaries": {
+                "minimum_salary": 4000000,
+                "average_salary": 9000000,
+                "maximum_salary": 15000000
+            }
+        }
+    },
+    "market_trend": "growing",
+    "short_explaination_of_market_trend": ",Python and ML skills are highly in demand globally, with strong growth expected in cloud and deep learning expertise.",
+    "top_companies_for_these_skills": [
+        "Google DeepMind",
+        "),",
+        ", ",
+        "Amazon Web Services",
+        "),,"
+    ],
+    "learning": {
+        "foundation": {
+            "themes_list": [
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "",
+                    "resource_type": "course"
+                }
+            ]
+        },
+        "practice": {
+            "themes_list": [
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "",
+                    "resource_type": "course"
+                }
+            ]
+        },
+        "portfolio": {
+            "themes_list": [
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                },
+                {
+                    "theme": ""
+                }
+            ],
+            "information_resources": [
+                {
+                    "resource": "",
+                    "resource_type": "documentation"
+                },
+                {
+                    "resource": "",
+                    "resource_type": "course"
+                }
+            ]
+        }
+    },
+    "gap_analysis": {
+        "quick_wins": [
+            {
+                "hard_skill": ""
+            },
+            {
+                "hard_skill": ""
+            },
+            {
+                "hard_skill": ""
+            }
+        ],
+        "long_term": [
+            {
+                "hard_skill": ""
+            },
+            {
+                "hard_skill": ""
+            },
+            {
+                "hard_skill": ""
+            }
+        ]
+    },
+    "portfolio_project": {
+        "project_name": "End-to-End Deep Learning Deployment Pipeline",
+        "project_description": "Develop a complete machine learning model, containerize it using Docker, deploy it on a cloud platform like AWS or GCP, and manage infrastructure with Kubernetes, all orchestrated using Python and relevant ML frameworks.",
+        "list_of_technologies": [
+            {
+                "hard_skill_name": "Python (for scripting and ML logic)"
+            },
+            {
+                "hard_skill_name": "TensorFlow or PyTorch (for model development)"
+            },
+            {
+                "hard_skill_name": "Docker (for containerization)"
+            },
+            {
+                "hard_skill_name": "Kubernetes (for orchestration)"
+            },
+            {
+                "hard_skill_name": "AWS or GCP (for cloud infrastructure)"
+            }
+        ]
+    }
 }

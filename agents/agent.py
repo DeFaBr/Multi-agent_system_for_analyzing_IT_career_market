@@ -20,24 +20,24 @@ class Agent():
             self.tokenizer = AutoTokenizer.from_pretrained(model_id)
 
             bnb_config = BitsAndBytesConfig(
-                load_in_4bit=True,
-                bnb_4bit_compute_dtype=torch.bfloat16,
-                bnb_4bit_quant_type="nf4",             
-                bnb_4bit_use_double_quant=True, 
-                llm_int8_enable_fp32_cpu_offload=True 
+                load_in_8bit=True,
+                # bnb_4bit_compute_dtype=torch.bfloat16,
+                # bnb_4bit_quant_type="nf4",             
+                # bnb_4bit_use_double_quant=True, 
+                # llm_int8_enable_fp32_cpu_offload=True 
             )
 
             raw_model = AutoModelForCausalLM.from_pretrained(
                 model_id,
                 quantization_config=bnb_config,
                 device_map="auto",
-                dtype = "auto",
+                dtype = torch.bfloat16,
                 trust_remote_code = False
             )
 
             self.model = Transformers(raw_model, self.tokenizer)
 
-            logging.info(f"=== Initializing {self.name} agent [{model_id}] on: {self.device} ===")
+            logging.info(f"=== Initializing {self.name} agent [{model_id}] ===")
 
     def start(self, promt: str, type_class, num_of_max_tokens):
         self.generator = Generator(self.model, output_type=type_class)

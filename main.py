@@ -83,7 +83,7 @@ def main():
     p.join()
     p.close()
     save_in_big_dict(DICT_FOR_MD, result)
-    time.sleep(5)
+    time.sleep(3)
 
     queue = mp.Queue()
     p = mp.Process(target=worker_market_evaluator, args=(queue,))
@@ -93,7 +93,7 @@ def main():
     p.join()
     p.close()
     save_in_big_dict(DICT_FOR_MD, result)
-    time.sleep(5)
+    time.sleep(3)
 
     queue = mp.Queue()
     p = mp.Process(target=worker_career_abvisor, args=(queue,))
@@ -103,7 +103,7 @@ def main():
     p.join()
     p.close()
     save_in_big_dict(DICT_FOR_MD, result)
-    time.sleep(5)
+    time.sleep(3)
 
     save_json(DICT_FOR_MD, FULL_JSON)
 
@@ -114,7 +114,6 @@ def main():
     p.terminate()
     p.join()
     p.close()
-    time.sleep(5)
 
     logging.info("=== Agents done work ===")
 

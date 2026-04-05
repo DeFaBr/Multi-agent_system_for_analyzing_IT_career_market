@@ -46,14 +46,14 @@ class Market_Evaluator(Agent):
 
         skills_json_dict = save_dict(READ_JSON)
 
-        promt = f"""TASK:
-                    ANALYSE the following IT Skills: {skills_json_dict}. Base on these skills, provide salary report .
-                    GIVE Salaries for Skills according to: region (Moscow/regions of Russia/Abroad) and grade level (junior/middle/denior/lead).
-                    EXPLAIN market trend about this situation in ONE or TWO SHORT sentences . 
-                    GIVE three or five top companies which can hire person with these skills .
-                    CRITICAL RULE:
-                    DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
-                    DO NOT INCLUDE inside the string values characters like: '{{', '}}', '[', ']' ':' .
+        promt = f"""
+                TASK:
+                ANALYSE the following IT Skills: {skills_json_dict}. Base on these skills, provide salary report .
+                GIVE Salaries for Skills according to: region (Moscow/regions of Russia/Abroad) and grade level (junior/middle/denior/lead).
+                EXPLAIN market trend about this situation in ONE or TWO SHORT sentences . 
+                GIVE three or five top companies which can hire person with these skills .
+                CRITICAL RULE:
+                DO NOT INCLUDE any JSON syntax characters like colors, quotes or braces inside the string values themselves .
                 """
         
         result = self.start(promt, Salaries_General_Situation, 3500)
